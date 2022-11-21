@@ -1,0 +1,472 @@
+.lot-div {
+  position: absolute;
+  top: 26px;
+  left: 9.66px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54.08px;
+  height: 36px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 82.14px;
+  height: 83px;
+}
+.buton-lot-div {
+  position: absolute;
+  top: 29px;
+  left: 508.1px;
+  width: 74.14px;
+  height: 75px;
+  cursor: pointer;
+}
+.detalii-div {
+  position: absolute;
+  top: 24px;
+  left: 12.55px;
+  font-weight: 600;
+  display: inline-block;
+  width: 102.36px;
+  height: 39px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon1 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 83px;
+}
+.buton-detalii-div {
+  position: absolute;
+  top: 29px;
+  left: 1004.45px;
+  width: 128.07px;
+  height: 75px;
+  cursor: pointer;
+}
+.nouti-div {
+  position: absolute;
+  top: 26px;
+  left: 8.69px;
+  font-weight: 600;
+  display: inline-block;
+  width: 110.08px;
+  height: 31px;
+}
+.buton-noutati-div {
+  position: absolute;
+  top: 29px;
+  left: 351.67px;
+  width: 128.07px;
+  height: 75px;
+  cursor: pointer;
+}
+.clasament-div {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-indigo);
+  text-align: center;
+  display: inline-block;
+  width: 191.2px;
+  height: 29px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon3 {
+  position: absolute;
+  top: 0;
+  left: 5.66px;
+  border-radius: var(--br-xs);
+  width: 180.55px;
+  height: 83px;
+}
+.buton-clasament-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 29px;
+  left: 600.81px;
+  width: 191.2px;
+  height: 75px;
+}
+.calendar-div {
+  position: absolute;
+  top: 24px;
+  left: 12.55px;
+  font-weight: 600;
+  display: inline-block;
+  width: 139.05px;
+  height: 41px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon4 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 172.46px;
+  height: 83px;
+}
+.buton-calendar-div {
+  position: absolute;
+  top: 29px;
+  left: 811.32px;
+  width: 164.46px;
+  height: 75px;
+  cursor: pointer;
+}
+.logo-csm-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90.91px;
+  height: 110px;
+  object-fit: cover;
+}
+.volei-csm-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.suceava-p {
+  margin: 0;
+}
+.volei-csm-suceava {
+  position: absolute;
+  top: 25px;
+  left: 90.77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.37px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-div {
+  position: absolute;
+  top: 23px;
+  left: 50.39px;
+  width: 249.14px;
+  height: 110px;
+  text-align: left;
+  color: var(--color-black);
+}
+.facebook-1-icon {
+  position: absolute;
+  top: 10.07px;
+  left: 10.95px;
+  width: 32.02px;
+  height: 37.52px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.facebook-div {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 61.92px;
+  height: 67.49px;
+}
+.facebook-div {
+  top: 1305px;
+  left: 560px;
+  width: 53.92px;
+  height: 59.49px;
+  cursor: pointer;
+}
+.instagram-1-icon {
+  position: absolute;
+  top: 10.98px;
+  left: 9.27px;
+  width: 35.45px;
+  height: 37.52px;
+  object-fit: cover;
+}
+.instagram-div {
+  position: absolute;
+  top: 1305px;
+  left: 704px;
+  width: 53.92px;
+  height: 59.49px;
+}
+.telephone-1-icon {
+  position: absolute;
+  top: 10.98px;
+  left: 9.27px;
+  width: 34.54px;
+  height: 37.52px;
+  object-fit: cover;
+}
+.phone-div,
+.rectangle-div {
+  position: absolute;
+  top: 1305px;
+  left: 854.77px;
+  width: 53.92px;
+  height: 59.49px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 98.91px;
+  height: 86.05px;
+}
+.account-1-icon {
+  position: absolute;
+  top: 10.93px;
+  left: 14.55px;
+  width: 77.55px;
+  height: 69.47px;
+  object-fit: cover;
+}
+.buton-account-div {
+  position: absolute;
+  top: 28px;
+  left: 1393px;
+  width: 98.91px;
+  height: 86.05px;
+  cursor: pointer;
+}
+.rectangle-icon5 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 241.29px;
+  height: 83px;
+}
+.volei-juvenil-div {
+  position: absolute;
+  top: 25px;
+  left: 14.48px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 39px;
+}
+.buton-volei-juvenil {
+  position: absolute;
+  top: 29px;
+  left: 1159.92px;
+  width: 233.29px;
+  height: 75px;
+  cursor: pointer;
+}
+.line-icon,
+.parteneri-div1 {
+  position: absolute;
+  top: 55.93px;
+  left: -4.02px;
+  width: 435.35px;
+  height: 14.38px;
+}
+.parteneri-div1 {
+  top: 0;
+  left: 242.38px;
+  font-weight: 600;
+  display: inline-block;
+  width: 210.51px;
+  height: 42px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.parteneri-div {
+  position: absolute;
+  top: 996px;
+  left: 5px;
+  width: 452.89px;
+  height: 62.31px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.primaria-1-icon {
+  position: absolute;
+  top: 0;
+  left: 45.89px;
+  border-radius: var(--br-md);
+  width: 114.59px;
+  height: 128.85px;
+  object-fit: cover;
+}
+.primria-i-consiliul-local-su {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 205.68px;
+  height: 37px;
+}
+.images-1-icon,
+.primaria-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 205.68px;
+  height: 189px;
+}
+.images-1-icon {
+  left: 57.94px;
+  border-radius: var(--br-sm);
+  width: 106.22px;
+  height: 108px;
+  object-fit: cover;
+}
+.bazzil-restaurant-div {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 221.13px;
+  height: 26px;
+}
+.bazzil-div {
+  position: absolute;
+  top: 38px;
+  left: 489px;
+  width: 221.13px;
+  height: 149px;
+  text-align: left;
+}
+.unknown-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 226.93px;
+  height: 122px;
+  object-fit: cover;
+}
+.tipografia-celestin-div {
+  position: absolute;
+  top: 126px;
+  left: 18.35px;
+  font-weight: 600;
+  display: inline-block;
+  width: 228.86px;
+  height: 30px;
+}
+.celestin-div {
+  position: absolute;
+  top: 38px;
+  left: 717px;
+  width: 247.21px;
+  height: 156px;
+  text-align: left;
+}
+.unknown-2-icon {
+  position: absolute;
+  top: 0;
+  left: 25.11px;
+  width: 199.89px;
+  height: 107px;
+  object-fit: cover;
+}
+.bucovina-health-club {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 250.1px;
+  height: 32px;
+}
+.bucovina-div {
+  position: absolute;
+  top: 42px;
+  left: 1205px;
+  width: 250.1px;
+  height: 155px;
+  text-align: left;
+}
+.assist-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 244.31px;
+  height: 53px;
+  object-fit: cover;
+}
+.assist-software-div {
+  position: absolute;
+  top: 89px;
+  left: 20.28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 22px;
+}
+.assist-div,
+.suct-icon {
+  position: absolute;
+  top: 66px;
+  left: 217px;
+  width: 244.31px;
+  height: 111px;
+}
+.suct-icon {
+  top: 0;
+  left: 0;
+  width: 187.38px;
+  height: 66.92px;
+  object-fit: cover;
+}
+.suct-div1 {
+  position: absolute;
+  top: 98px;
+  left: 29.94px;
+  font-weight: 600;
+  display: inline-block;
+  width: 126.72px;
+  height: 25.28px;
+}
+.group-div,
+.suct-div {
+  position: absolute;
+  top: 66px;
+  left: 990px;
+  width: 187.38px;
+  height: 123.28px;
+}
+.group-div {
+  top: 1073px;
+  left: 14px;
+  width: 1455.1px;
+  height: 197px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+}
+.echipa-icon {
+  position: absolute;
+  height: 60.43%;
+  width: 100%;
+  top: 9.64%;
+  right: 0;
+  bottom: 29.93%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1380px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,300 @@
+.line-icon14 {
+  position: absolute;
+  top: 53.85px;
+  left: -4.02px;
+  width: 491.8px;
+  height: 14.41px;
+}
+.meciuri-urmtoare-div {
+  position: absolute;
+  top: 0;
+  left: 95px;
+  font-weight: 600;
+  display: inline-block;
+  width: 380px;
+  height: 33px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.meci-urmator-div1 {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 483.78px;
+  height: 60.26px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+}
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 51.91px;
+  height: 62.22px;
+}
+.next-arrow-3-icon1 {
+  position: absolute;
+  top: 7.04px;
+  left: 3.79px;
+  width: 44.34px;
+  height: 63.18px;
+  object-fit: cover;
+}
+.buton-dreata-div1,
+.rectangle-div5 {
+  position: absolute;
+  top: 3.81px;
+  left: 94.09px;
+  width: 51.91px;
+  height: 62.22px;
+}
+.rectangle-div5 {
+  top: 0.01px;
+  left: 0;
+  background-color: var(--color-white);
+  height: 62.21px;
+}
+.next-arrow-4-icon1 {
+  position: absolute;
+  top: 0;
+  left: 5.91px;
+  width: 42.58px;
+  height: 61.19px;
+  object-fit: cover;
+}
+.buton-stanga-div1,
+.rectangle-div6 {
+  position: absolute;
+  top: 11.43px;
+  left: 0;
+  width: 51.91px;
+  height: 62.22px;
+}
+.rectangle-div6 {
+  top: 0;
+  background-color: var(--color-white);
+  width: 56.24px;
+  height: 80px;
+}
+.calendar-1-icon1 {
+  position: absolute;
+  top: 7.9px;
+  left: 2.06px;
+  width: 54.72px;
+  height: 68.25px;
+  object-fit: cover;
+}
+.buton-calendar-div3,
+.calendar-div3,
+.div7,
+.div8 {
+  position: absolute;
+  top: 0;
+  left: 45.42px;
+  width: 56.24px;
+  height: 80px;
+}
+.calendar-div3,
+.div7,
+.div8 {
+  top: 3px;
+  left: 1354px;
+  width: 146px;
+}
+.div7,
+.div8 {
+  top: 200px;
+  left: 30px;
+  font-size: var(--font-size-4xl);
+  font-weight: 600;
+  color: var(--color-indigo);
+  display: inline-block;
+  width: 218px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div8 {
+  top: 358px;
+  width: 225px;
+}
+.background-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 20.42%;
+  top: 0;
+  right: 79.58%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.csm-u-craiova2 {
+  position: absolute;
+  top: 31px;
+  left: 80px;
+  font-weight: 600;
+  display: inline-block;
+  width: 276.63px;
+  height: 53.78px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.csm-craiova-div {
+  position: absolute;
+  height: 7.52%;
+  width: 23.78%;
+  top: 14.15%;
+  right: 53.82%;
+  bottom: 78.34%;
+  left: 22.4%;
+  color: var(--color-black);
+}
+.logo-csm-14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 69.28px;
+  height: 86px;
+  object-fit: cover;
+}
+.csm-suceava-div7 {
+  position: absolute;
+  top: 35px;
+  left: 80px;
+  font-weight: 600;
+  display: inline-block;
+  width: 263.26px;
+  height: 47.57px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.csm-suceava-div6 {
+  position: absolute;
+  top: 312px;
+  left: 336px;
+  width: 343.26px;
+  height: 86px;
+  color: var(--color-black);
+}
+.csm-suceava-div9 {
+  position: absolute;
+  top: 27px;
+  left: 88px;
+  font-weight: 600;
+  display: inline-block;
+  width: 263.26px;
+  height: 47.57px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.csm-suceava-div8 {
+  position: absolute;
+  top: 146px;
+  left: 1105px;
+  width: 351.26px;
+  height: 86px;
+  color: var(--color-black);
+}
+.divizia-a12,
+.divizia-a13,
+.sala-polivalent-craiova1 {
+  position: absolute;
+  top: 150px;
+  left: 30px;
+  font-weight: 600;
+  display: inline-block;
+  width: 184px;
+  height: 40px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.divizia-a13,
+.sala-polivalent-craiova1 {
+  top: 307px;
+  width: 174px;
+  height: 31px;
+}
+.sala-polivalent-craiova1 {
+  top: 245px;
+  left: 679px;
+  width: 406px;
+  height: 52px;
+}
+.d26lfm-r94wk7cd-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 96px;
+  height: 91px;
+  object-fit: cover;
+}
+.u-cluj-div3 {
+  position: absolute;
+  top: 40px;
+  left: 110px;
+  font-weight: 600;
+  display: inline-block;
+  width: 128.25px;
+  height: 20.85px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.u-cluj-div2 {
+  position: absolute;
+  top: 307px;
+  left: 1105px;
+  width: 238.25px;
+  height: 91px;
+  color: var(--color-black);
+}
+.sala-de-sport-dumitru-bernic1 {
+  position: absolute;
+  top: 407px;
+  left: 610px;
+  font-weight: 600;
+  display: inline-block;
+  width: 530px;
+  height: 52px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.meci-icon1 {
+  position: absolute;
+  top: 480px;
+  left: 30px;
+  width: 1470px;
+  height: 651px;
+  object-fit: cover;
+}
+.div10,
+.div9 {
+  position: absolute;
+  top: 164px;
+  left: 826px;
+  font-size: var(--font-size-8xl);
+  display: inline-block;
+  width: 35px;
+  height: 44px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div10 {
+  top: 322px;
+  left: 829px;
+  width: 44px;
+  height: 42px;
+}
+.house-1-icon6 {
+  position: absolute;
+  top: 7px;
+  left: 783px;
+  width: 76px;
+  height: 74px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.next-match-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1131px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-brown);
+  font-family: var(--font-inter);
+}
