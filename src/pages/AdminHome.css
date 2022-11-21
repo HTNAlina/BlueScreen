@@ -1,0 +1,479 @@
+.group-icon,
+.lot-div1 {
+  position: absolute;
+  top: 1680px;
+  left: 633px;
+  width: 356.7px;
+  height: 67.49px;
+}
+.lot-div1 {
+  top: 26px;
+  left: 9.66px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54.08px;
+  height: 36px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon6 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 82.14px;
+  height: 83px;
+}
+.buton-lot-div1 {
+  position: absolute;
+  top: 45px;
+  left: 508.1px;
+  width: 74.14px;
+  height: 75px;
+  cursor: pointer;
+  color: var(--color-indigo);
+}
+.detalii-div1 {
+  position: absolute;
+  top: 24px;
+  left: 12.55px;
+  font-weight: 600;
+  display: inline-block;
+  width: 102.36px;
+  height: 39px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon7 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 83px;
+}
+.buton-detalii-div1 {
+  position: absolute;
+  top: 45px;
+  left: 1004.45px;
+  width: 128.07px;
+  height: 75px;
+  color: var(--color-indigo);
+}
+.nouti-div1 {
+  position: absolute;
+  top: 26px;
+  left: 8.69px;
+  font-weight: 600;
+  display: inline-block;
+  width: 110.08px;
+  height: 31px;
+}
+.buton-noutati-div1,
+.clasament-div1 {
+  position: absolute;
+  top: 45px;
+  left: 351.67px;
+  width: 128.07px;
+  height: 75px;
+  color: var(--color-indigo);
+}
+.clasament-div1 {
+  top: 28px;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  text-align: center;
+  display: inline-block;
+  width: 191.2px;
+  height: 29px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon9 {
+  position: absolute;
+  top: 0;
+  left: 5.66px;
+  border-radius: var(--br-xs);
+  width: 180.55px;
+  height: 83px;
+}
+.buton-clasament-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45px;
+  left: 600.81px;
+  width: 191.2px;
+  height: 75px;
+}
+.calendar-div1 {
+  position: absolute;
+  top: 24px;
+  left: 12.55px;
+  font-weight: 600;
+  display: inline-block;
+  width: 139.05px;
+  height: 41px;
+  mix-blend-mode: normal;
+}
+.rectangle-icon10 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 172.46px;
+  height: 83px;
+}
+.buton-calendar-div1 {
+  position: absolute;
+  top: 45px;
+  left: 811.32px;
+  width: 164.46px;
+  height: 75px;
+  color: var(--color-indigo);
+}
+.logo-csm-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90.91px;
+  height: 110px;
+  object-fit: cover;
+}
+.volei-csm-p1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.suceava-p1 {
+  margin: 0;
+}
+.volei-csm-suceava1 {
+  position: absolute;
+  top: 25px;
+  left: 90.77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.37px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-div1 {
+  position: absolute;
+  top: 32px;
+  left: 57px;
+  width: 249.14px;
+  height: 110px;
+  text-align: left;
+}
+.rectangle-icon11 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 241.29px;
+  height: 83px;
+}
+.volei-juvenil-div1 {
+  position: absolute;
+  top: 25px;
+  left: 14.48px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 39px;
+}
+.buton-volei-juvenil1 {
+  position: absolute;
+  top: 45px;
+  left: 1159.92px;
+  width: 233.29px;
+  height: 75px;
+  color: var(--color-indigo);
+}
+.line-icon1,
+.parteneri-div3 {
+  position: absolute;
+  top: 55.93px;
+  left: 0;
+  width: 431.33px;
+  height: 14.38px;
+}
+.parteneri-div3 {
+  top: 0;
+  left: 242.38px;
+  font-weight: 600;
+  display: inline-block;
+  width: 210.51px;
+  height: 42px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.parteneri-div2 {
+  position: absolute;
+  top: 1043px;
+  left: 0;
+  width: 452.89px;
+  height: 62.31px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+}
+.echipa-icon1 {
+  position: absolute;
+  height: 46.15%;
+  width: 100%;
+  top: 8.25%;
+  right: 0;
+  bottom: 45.6%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-icon12 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 390px;
+  height: 78px;
+}
+.adaug-parteneri-div {
+  position: absolute;
+  top: 16px;
+  left: 47px;
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 47px;
+}
+.adauga-parteneir-div {
+  position: absolute;
+  top: 1208px;
+  left: 78px;
+  width: 382px;
+  height: 70px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+}
+.rectangle-icon13 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 390px;
+  height: 71.83px;
+}
+.terge-parteneri-div {
+  position: absolute;
+  top: 14.38px;
+  left: 64px;
+  font-weight: 600;
+  display: inline-block;
+  width: 285px;
+  height: 55.62px;
+}
+.sterge-parteneri-div {
+  position: absolute;
+  top: 1208px;
+  left: 1054px;
+  width: 382px;
+  height: 70px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+}
+.editeaz-parteneri-div {
+  position: absolute;
+  top: 16px;
+  left: 42px;
+  font-weight: 600;
+  display: inline-block;
+  width: 314px;
+  height: 47px;
+}
+.editeaza-parteneri-div {
+  position: absolute;
+  top: 1208px;
+  left: 566px;
+  width: 382px;
+  height: 70px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+}
+.primaria-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 45.89px;
+  border-radius: var(--br-md);
+  width: 114.59px;
+  height: 128.85px;
+  object-fit: cover;
+}
+.primria-i-consiliul-local-su1 {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 205.68px;
+  height: 37px;
+}
+.images-1-icon1,
+.primaria-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 205.68px;
+  height: 189px;
+}
+.images-1-icon1 {
+  left: 57.94px;
+  border-radius: var(--br-sm);
+  width: 106.22px;
+  height: 108px;
+  object-fit: cover;
+}
+.bazzil-restaurant-div1 {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 221.13px;
+  height: 26px;
+}
+.bazzil-div1 {
+  position: absolute;
+  top: 38px;
+  left: 489px;
+  width: 221.13px;
+  height: 149px;
+  text-align: left;
+}
+.unknown-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 226.93px;
+  height: 122px;
+  object-fit: cover;
+}
+.tipografia-celestin-div1 {
+  position: absolute;
+  top: 126px;
+  left: 18.35px;
+  font-weight: 600;
+  display: inline-block;
+  width: 228.86px;
+  height: 30px;
+}
+.celestin-div1 {
+  position: absolute;
+  top: 38px;
+  left: 717px;
+  width: 247.21px;
+  height: 156px;
+  text-align: left;
+}
+.unknown-2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 25.11px;
+  width: 199.89px;
+  height: 107px;
+  object-fit: cover;
+}
+.bucovina-health-club1 {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 250.1px;
+  height: 32px;
+}
+.bucovina-div1 {
+  position: absolute;
+  top: 42px;
+  left: 1205px;
+  width: 250.1px;
+  height: 155px;
+  text-align: left;
+}
+.assist-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 244.31px;
+  height: 53px;
+  object-fit: cover;
+}
+.assist-software-div1 {
+  position: absolute;
+  top: 89px;
+  left: 20.28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 22px;
+}
+.assist-div1,
+.suct-icon1 {
+  position: absolute;
+  top: 66px;
+  left: 217px;
+  width: 244.31px;
+  height: 111px;
+}
+.suct-icon1 {
+  top: 0;
+  left: 0;
+  width: 187.38px;
+  height: 66.92px;
+  object-fit: cover;
+}
+.suct-div3 {
+  position: absolute;
+  top: 98px;
+  left: 29.94px;
+  font-weight: 600;
+  display: inline-block;
+  width: 126.72px;
+  height: 25.28px;
+}
+.group-div1,
+.suct-div2 {
+  position: absolute;
+  top: 66px;
+  left: 990px;
+  width: 187.38px;
+  height: 123.28px;
+}
+.group-div1 {
+  top: 1380px;
+  left: 22px;
+  width: 1455.1px;
+  height: 197px;
+  font-size: var(--font-size-xs);
+}
+.logout-1-icon {
+  position: absolute;
+  top: 50px;
+  left: 1421px;
+  width: 62px;
+  height: 64px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.admin-home-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1807px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

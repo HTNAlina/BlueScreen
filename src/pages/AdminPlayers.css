@@ -1,0 +1,359 @@
+.house-1-icon,
+.lot-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.lot-1-icon {
+  top: 0;
+  left: 37px;
+  width: 1463px;
+  height: 625px;
+  mix-blend-mode: normal;
+}
+.house-1-icon {
+  top: 670px;
+  left: 705px;
+  width: 89px;
+  height: 80px;
+  cursor: pointer;
+}
+.line-icon2 {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  width: 434.41px;
+  height: 6.12px;
+}
+.adugare-juctor-div {
+  position: absolute;
+  top: 0;
+  left: 105px;
+  font-weight: 600;
+  display: inline-block;
+  width: 295px;
+  height: 56px;
+}
+.adaugare-jucator-div,
+.line-icon3 {
+  position: absolute;
+  top: 788px;
+  left: 0;
+  width: 434.41px;
+  height: 57.12px;
+}
+.line-icon3 {
+  top: 55px;
+  left: -0.02px;
+  width: 434.02px;
+  height: 6.12px;
+}
+.editeaz-juctor-div {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  font-weight: 600;
+  display: inline-block;
+  width: 295px;
+  height: 56px;
+}
+.editeaza-jucator-div {
+  position: absolute;
+  top: 783px;
+  left: 1066px;
+  width: 434.41px;
+  height: 61.12px;
+}
+.terge-juctor-div {
+  position: absolute;
+  top: 0;
+  left: 125px;
+  font-weight: 600;
+  display: inline-block;
+  width: 295px;
+  height: 56px;
+}
+.sterge-jucator-div {
+  position: absolute;
+  top: 3210px;
+  left: 0;
+  width: 434.41px;
+  height: 57.12px;
+}
+.rectangle-icon15,
+.rectangle-icon16 {
+  position: absolute;
+  top: 90px;
+  left: -4px;
+  border-radius: var(--br-xs);
+  width: 507px;
+  height: 80.25px;
+}
+.rectangle-icon16 {
+  top: 0;
+  width: 330px;
+}
+.terge-juctor-div1 {
+  position: absolute;
+  top: 16px;
+  left: 46px;
+  font-weight: 500;
+  display: inline-block;
+  width: 232px;
+  height: 39px;
+}
+.alege-jucor-div,
+.buton-adaugare-jucator {
+  position: absolute;
+  top: 229px;
+  left: 88px;
+  width: 322px;
+  height: 72.25px;
+}
+.alege-jucor-div {
+  top: 0;
+  left: 121px;
+  font-weight: 500;
+  display: inline-block;
+  width: 256px;
+  height: 50px;
+}
+.nume-div,
+.sterge-juc-div {
+  position: absolute;
+  top: 3322px;
+  left: 506px;
+  width: 499px;
+  height: 301.25px;
+}
+.nume-div {
+  top: 0;
+  left: 197px;
+  font-weight: 500;
+  display: inline-block;
+  width: 105px;
+  height: 50px;
+}
+.rectangle-icon17,
+.rectangle-icon18,
+.rectangle-icon19 {
+  position: absolute;
+  top: 80px;
+  left: 7px;
+  border-radius: var(--br-xs);
+  width: 507px;
+  height: 80.25px;
+}
+.rectangle-icon18,
+.rectangle-icon19 {
+  top: 1480px;
+  left: -4px;
+}
+.rectangle-icon19 {
+  top: 261px;
+  left: 7px;
+}
+.club-div,
+.data-naterii-div,
+.nlime-div,
+.numr-tricou-div,
+.poziie-div {
+  position: absolute;
+  top: 363px;
+  left: 151px;
+  font-weight: 500;
+  display: inline-block;
+  width: 218px;
+  height: 35px;
+}
+.club-div,
+.data-naterii-div,
+.nlime-div,
+.poziie-div {
+  top: 530px;
+  left: 218px;
+  width: 84px;
+  height: 48px;
+}
+.data-naterii-div,
+.nlime-div,
+.poziie-div {
+  top: 1056px;
+  left: 199px;
+  width: 122px;
+  height: 44px;
+}
+.data-naterii-div,
+.nlime-div {
+  top: 710px;
+  left: 205px;
+  width: 146px;
+  height: 38px;
+}
+.data-naterii-div {
+  top: 880px;
+  left: 164px;
+  width: 223px;
+  height: 44px;
+}
+.rectangle-icon20 {
+  position: absolute;
+  top: 1307px;
+  left: 7px;
+  border-radius: var(--br-xs);
+  width: 507px;
+  height: 80.25px;
+}
+.rectangle-icon21,
+.rectangle-icon22,
+.rectangle-icon23,
+.rectangle-icon24,
+.rectangle-icon25 {
+  position: absolute;
+  top: 1130px;
+  left: 7px;
+  border-radius: var(--br-xs);
+  width: 507px;
+  height: 80.25px;
+}
+.rectangle-icon22,
+.rectangle-icon23,
+.rectangle-icon24,
+.rectangle-icon25 {
+  top: 954px;
+}
+.rectangle-icon23,
+.rectangle-icon24,
+.rectangle-icon25 {
+  top: 778px;
+}
+.rectangle-icon24,
+.rectangle-icon25 {
+  top: 608px;
+}
+.rectangle-icon25 {
+  top: 428px;
+}
+.adugare-juctor-div1,
+.naionaliate-div {
+  position: absolute;
+  top: 1232px;
+  left: 151px;
+  font-weight: 500;
+  display: inline-block;
+  width: 218px;
+  height: 45px;
+}
+.adugare-juctor-div1 {
+  top: 16px;
+  left: 16px;
+  width: 282px;
+  height: 51px;
+}
+.buton-adaugare-jucator1 {
+  position: absolute;
+  top: 2125px;
+  left: 103px;
+  width: 322px;
+  height: 72.25px;
+}
+.echip-1-div,
+.prenume-div {
+  position: absolute;
+  top: 182px;
+  left: 158px;
+  font-weight: 500;
+  display: inline-block;
+  width: 155px;
+  height: 49px;
+}
+.echip-1-div {
+  top: 1405px;
+  left: 197px;
+  width: 198px;
+  height: 41px;
+}
+.rectangle-icon27 {
+  position: absolute;
+  top: 1653px;
+  left: 3px;
+  border-radius: var(--br-xs);
+  width: 507px;
+  height: 80.25px;
+}
+.dat-1-div {
+  position: absolute;
+  top: 1582px;
+  left: 214px;
+  font-weight: 500;
+  display: inline-block;
+  width: 198px;
+  height: 41px;
+}
+.rectangle-icon28 {
+  position: absolute;
+  top: 1826px;
+  left: 7px;
+  border-radius: var(--br-xs);
+  width: 507px;
+  height: 80.25px;
+}
+.echip-2-div {
+  position: absolute;
+  top: 1755px;
+  left: 199px;
+  font-weight: 500;
+  display: inline-block;
+  width: 198px;
+  height: 41px;
+}
+.rectangle-icon29 {
+  position: absolute;
+  top: 1999px;
+  left: 14px;
+  border-radius: var(--br-xs);
+  width: 507px;
+  height: 80.25px;
+}
+.dat-2-div {
+  position: absolute;
+  top: 1928px;
+  left: 205px;
+  font-weight: 500;
+  display: inline-block;
+  width: 198px;
+  height: 41px;
+}
+.adauga-juc-div {
+  position: absolute;
+  top: 891px;
+  left: 94px;
+  width: 517px;
+  height: 2197.25px;
+}
+.editare-juctor-div {
+  position: absolute;
+  top: 15px;
+  left: 29px;
+  font-weight: 500;
+  display: inline-block;
+  width: 282px;
+  height: 51px;
+}
+.edit-juc-div {
+  position: absolute;
+  top: 892px;
+  left: 923px;
+  width: 517px;
+  height: 2197.25px;
+}
+.admin-players-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3760px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

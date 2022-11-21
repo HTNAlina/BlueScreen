@@ -1,0 +1,161 @@
+.line-icon10 {
+  position: absolute;
+  top: 53.32px;
+  left: -4.01px;
+  width: 466.01px;
+  height: 14.68px;
+}
+.pop-darius-cristian {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  font-weight: 600;
+  display: inline-block;
+  width: 448px;
+  height: 60px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ellipse-icon7,
+.nume-jucator-div {
+  position: absolute;
+  top: 19px;
+  left: 1038px;
+  width: 462px;
+  height: 60px;
+}
+.ellipse-icon7 {
+  top: -10px;
+  left: -14px;
+  width: 363px;
+  height: 358px;
+}
+.teamplayer-176-2065-1-icon {
+  position: absolute;
+  top: 20.97px;
+  left: 38.87px;
+  border-radius: 89px;
+  width: 258.57px;
+  height: 302.5px;
+  object-fit: cover;
+}
+.div {
+  position: absolute;
+  top: 104px;
+  left: 73px;
+  width: 335px;
+  height: 330px;
+}
+.span {
+  color: var(--color-black);
+}
+.club-span {
+  color: var(--color-indigo);
+}
+.club-csm-suceava {
+  color: var(--color-black);
+}
+.club-csm-suceava,
+.nlime-183-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.numr-tricou-2-club-csm-suce {
+  position: absolute;
+  top: 179px;
+  left: 487px;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 639px;
+  height: 238px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: var(--color-indigo);
+}
+.echipe-div1,
+.line-icon11 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 451.87px;
+  height: 14px;
+}
+.echipe-div1 {
+  top: 0;
+  left: 298px;
+  font-weight: 600;
+  display: inline-block;
+  width: 143px;
+  height: 30px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.echipe-div {
+  position: absolute;
+  top: 503px;
+  left: 0;
+  width: 447.87px;
+  height: 51px;
+}
+.line-icon12,
+.perioad-div {
+  position: absolute;
+  top: 41.03px;
+  left: -4.02px;
+  width: 452.02px;
+  height: 13.97px;
+}
+.perioad-div {
+  top: 0;
+  left: 12px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.92px;
+  height: 29px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.perioada-div {
+  position: absolute;
+  top: 507px;
+  left: 1052px;
+  width: 448px;
+  height: 47px;
+}
+.cs-unirea-dej {
+  margin: 0;
+}
+.csm-suceava-cs-unirea-dej,
+.frv-202223-frv-202122 {
+  position: absolute;
+  top: 584px;
+  left: 228px;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 248px;
+  height: 126px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frv-202223-frv-202122 {
+  left: 1052px;
+  width: 399px;
+  height: 133px;
+}
+.house-1-icon4 {
+  position: absolute;
+  top: 19px;
+  left: 746px;
+  width: 68px;
+  height: 68px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.players-history-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 789px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

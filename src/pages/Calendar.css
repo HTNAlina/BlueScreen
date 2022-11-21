@@ -1,0 +1,193 @@
+.line-icon15 {
+  position: absolute;
+  top: 47.8px;
+  left: -4.02px;
+  width: 407.74px;
+  height: 14.2px;
+}
+.meci-anterior-div1 {
+  position: absolute;
+  top: 0;
+  left: 111px;
+  font-weight: 600;
+  display: inline-block;
+  width: 272px;
+  height: 35px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.meci-anterior-div {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 399.73px;
+  height: 54px;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+}
+.line-icon16,
+.meci-urmtor-div {
+  position: absolute;
+  top: 48px;
+  left: -4.02px;
+  width: 443.02px;
+  height: 14.07px;
+}
+.meci-urmtor-div {
+  top: 0;
+  left: 19px;
+  font-weight: 600;
+  display: inline-block;
+  width: 268px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.meci-urmator-div2 {
+  position: absolute;
+  top: 13px;
+  left: 1065px;
+  width: 435px;
+  height: 54.07px;
+  cursor: pointer;
+  font-size: var(--font-size-3xl);
+}
+.live-streaming-1-icon {
+  position: absolute;
+  top: 88px;
+  left: 739px;
+  width: 91.96px;
+  height: 90px;
+  object-fit: cover;
+}
+.logo-1-div {
+  position: absolute;
+  top: 166px;
+  left: 93px;
+  width: 61px;
+  height: 92px;
+  overflow: hidden;
+}
+.csm-u-craiova4 {
+  position: absolute;
+  top: 30.21px;
+  left: 71.45px;
+  font-weight: 600;
+  display: inline-block;
+  width: 300.55px;
+  height: 18.99px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.background-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 19.11%;
+  top: 0;
+  right: 80.89%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.csm-u-craiova3,
+.logo-csm-16 {
+  position: absolute;
+  top: 178px;
+  left: 61px;
+  width: 372px;
+  height: 95px;
+}
+.logo-csm-16 {
+  top: 0;
+  left: 264.72px;
+  width: 105.28px;
+  height: 99px;
+  object-fit: cover;
+}
+.csm-suceava-div11 {
+  position: absolute;
+  top: 31.41px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 273.92px;
+  height: 52.36px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.csm-suceava-div10 {
+  position: absolute;
+  top: 166px;
+  left: 1065px;
+  width: 370px;
+  height: 99px;
+}
+.div11,
+.vs-b {
+  color: var(--color-brown);
+  height: 46px;
+}
+.vs-b {
+  position: absolute;
+  top: 200px;
+  left: 750px;
+  display: inline-block;
+  width: 56px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div11 {
+  top: 293px;
+  left: 233px;
+  font-size: var(--font-size-8xl);
+  font-weight: 800;
+  width: 50px;
+}
+.div11,
+.div12,
+.div13 {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div12 {
+  top: 293px;
+  left: 1199px;
+  font-size: var(--font-size-8xl);
+  font-weight: 800;
+  color: var(--color-brown);
+  width: 38px;
+  height: 48px;
+}
+.div13 {
+  top: 308px;
+  left: 719px;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+  width: 132px;
+  height: 42px;
+}
+.house-1-icon7,
+.live-1-icon {
+  position: absolute;
+  top: 402px;
+  left: 41px;
+  width: 1459px;
+  height: 622px;
+  object-fit: cover;
+}
+.house-1-icon7 {
+  top: 1px;
+  left: 746px;
+  width: 78px;
+  height: 74px;
+  cursor: pointer;
+}
+.calendar-div4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
