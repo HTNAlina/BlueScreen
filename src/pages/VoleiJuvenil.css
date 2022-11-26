@@ -198,8 +198,7 @@
   left: 43.42px;
   font-weight: 100;
   display: inline-block;
-  width: 385.85px;
-  height: 34.62px;
+
 }
 .nume-copil-div,
 .nume-parinte-div {
@@ -287,4 +286,25 @@
   font-size: var(--font-size-xl);
   color: var(--color-indigo);
   font-family: var(--font-inter);
+}
+input[type=text] {
+  
+  border: 3px solid #555;
+  background-color: rgb(227, 234, 249);
+  border-radius: 15px;
+  -webkit-text-fill-color: rgb(10, 8, 131);
+  
+  font-size: 30px;
+  text-align: center;
+  
+  
+}
+input[type=text]:focus {
+  
+  border: 3px solid #555;
+  background-color: rgb(216, 227, 251);
+  border-radius: 15px;
+  -webkit-text-fill-color: rgb(10, 8, 131);
+  font-size: 30px;
+  text-align: center;
 }

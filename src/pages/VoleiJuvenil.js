@@ -52,26 +52,25 @@ const VoleiJuvenil = () => {
         </p>
         <p className="blank-line-p">&nbsp;</p>
       </b>
-      <div className="nume-parinte-div">
-        <img className="rectangle-icon48" alt="" src="../rectangle-14.svg" />
-        <div className="nume-printe-div">Nume pãrinte</div>
+
+       <div className="nume-parinte-div">
+        <input type="text" placeholder="Nume parinte"></input>
+       
       </div>
       <div className="nume-copil-div">
-        <img className="rectangle-icon48" alt="" src="../rectangle-15.svg" />
-        <div className="vrst-copil-div">Nume copil</div>
+      <input type="text" placeholder="Nume copil"></input>
+        
       </div>
       <div className="varsta-div">
-        <img className="rectangle-icon48" alt="" src="../rectangle-16.svg" />
-        <div className="vrst-copil-div">Vârstã copil</div>
+        <input type="text" placeholder="Varsata copil"></input>
+       
       </div>
       <div className="numar-telefon-div">
-        <img className="rectangle-icon48" alt="" src="../rectangle-17.svg" />
-        <div className="vrst-copil-div">Numãr telefon</div>
+        <input type="text" placeholder="Numar telefon"></input>
       </div>
       <img className="imagine-icon" alt="" src="../imagine@2x.png" />
       <div className="e-mail-div">
-        <img className="rectangle-icon48" alt="" src="../rectangle-18.svg" />
-        <div className="vrst-copil-div">E-mail</div>
+        <input type="text" placeholder="Email"></input>
       </div>
       <div className="buton-inscrierea-div">
         <img className="rectangle-icon53" alt="" src="../rectangle-54.svg" />
