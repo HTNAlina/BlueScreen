@@ -16,7 +16,9 @@ const Calendar = () => {
   const onHouse1ImageClick = useCallback(() => {
     navigate("/");
   }, [navigate]);
-
+  const onButonClasamentButtonClick = useCallback(() => {
+    window.open("https://www.youtube.com/watch?v=VlFYKVk5o8U&ab_channel=TeleviziuneaIntermedia");
+  }, []);
   return (
     <div className="calendar-div4">
       <div className="meci-anterior-div" onClick={onMeciAnteriorContainerClick}>
@@ -45,8 +47,12 @@ const Calendar = () => {
       <div className="div11">2</div>
       <div className="div12">2</div>
       <div className="div13">03:01</div>
-      <img className="live-1-icon" alt="" src="../live-1@2x.png" />
-      <img
+      <img 
+        className="live-1-icon" 
+        alt="" src="../live-1@2x.png" 
+        onClick={onButonClasamentButtonClick}  
+      />
+        <img
         className="house-1-icon7"
         alt=""
         src="../house-17@2x.png"
