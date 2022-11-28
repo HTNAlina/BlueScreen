@@ -21,8 +21,8 @@ const LogIn = () => {
     
       <div className="autentificare-div">AUTENTIFICARE</div>
 
-      <input id="cod" type="text" className="cod-acces-div"></input>
-      <input id="nume" type="text" className="rectangle-select"></input>
+      <input id="cod" type="text" className="cod-acces-div"placeholder="Cod acces"></input>
+      <input id="nume" type="text" className="rectangle-select" placeholder="Nume complet"></input>
       <button id="butonautentificare"className="autentificare-div1" onClick={onHouse1ImageClick} >Autentificare</button>
       
       <img className="imagine-icon1" alt="" src="../imagine1@2x.png" />

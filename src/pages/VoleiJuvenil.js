@@ -54,7 +54,7 @@ const VoleiJuvenil = () => {
       </b>
 
        <div className="nume-parinte-div">
-        <input type="text" placeholder="Nume parinte"></input>
+        <input type="text" placeholder="Nume părinte"></input>
        
       </div>
       <div className="nume-copil-div">
@@ -62,15 +62,15 @@ const VoleiJuvenil = () => {
         
       </div>
       <div className="varsta-div">
-        <input type="text" placeholder="Varsata copil"></input>
+        <input type="text" placeholder="Vârstă copil"></input>
        
       </div>
       <div className="numar-telefon-div">
-        <input type="text" placeholder="Numar telefon"></input>
+        <input type="text" placeholder="Număr telefon"></input>
       </div>
       <img className="imagine-icon" alt="" src="../imagine@2x.png" />
       <div className="e-mail-div">
-        <input type="text" placeholder="Email"></input>
+        <input type="text" placeholder="E-mail"></input>
       </div>
       <div className="buton-inscrierea-div">
         <img className="rectangle-icon53" alt="" src="../rectangle-54.svg" />
