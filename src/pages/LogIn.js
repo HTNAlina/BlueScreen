@@ -23,7 +23,7 @@ const LogIn = () => {
 
       <input id="cod" type="text" className="cod-acces-div"placeholder="Cod acces"></input>
       <input id="nume" type="text" className="rectangle-select" placeholder="Nume complet"></input>
-      <button id="butonautentificare"className="autentificare-div1" onClick={onHouse1ImageClick} >Autentificare</button>
+      <button id="butonautentificare"className="autentificare-div1" onClick={onRectangleClick} >Autentificare</button>
       
       <img className="imagine-icon1" alt="" src="../imagine1@2x.png" />
       <img

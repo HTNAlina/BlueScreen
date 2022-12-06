@@ -36,7 +36,7 @@ const AdminPlayers = () => {
           <img className="rectangle-icon16" alt="" src="../rectangle-81.svg" />
           <div className="terge-juctor-div1">Șterge jucător</div>
         </div>
-        <div className="alege-jucor-div">Alege jucăor</div>
+        <div className="alege-jucor-div">Alege jucător</div>
       </div>
       <div className="adauga-juc-div">
         <div className="nume-div">Nume</div>
