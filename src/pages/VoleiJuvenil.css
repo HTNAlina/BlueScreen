@@ -1,3 +1,174 @@
+.rectangle-a{
+  top: 22px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 98.91px;
+  height: 86.05px;
+}
+.account-1-a {
+  position: absolute;
+  top: 14px;
+  left: 0px;
+  width: 77.55px;
+  height: 69.47px;
+  object-fit: cover;
+}
+.rectangle-v {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 231.29px;
+  height: 73px;
+}
+.volei-juvenil-v {
+  position: absolute;
+  top: 31px;
+  left: -18px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 39px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.detalii-d {
+  position: absolute;
+  top: 31px;
+  left: -24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 102.36px;
+  height: 39px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-d {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.rectangle-ca {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 172.46px;
+  height: 73px;
+}
+.calendar-c {
+  position: absolute;
+  top: 31px;
+  left: -28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 139.05px;
+  height: 41px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-c {
+  position: absolute;
+  top: 12px;
+  left: -30px;
+  border-radius: var(--br-xs);
+  width: 180.55px;
+  height: 73px;
+}
+.clasament-c {
+  position: absolute;
+  top: 31px;
+  left: -34px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-indigo);
+  text-align: center;
+  display: inline-block;
+  width: 191.2px;
+  height: 29px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+}
+.rectangle-l {
+  position: absolute;
+  top: 40px;
+  left: 480px;
+  border-radius: var(--br-xs);
+  width: 82.14px;
+  height: 73px;
+}
+.lot-l {
+  position: absolute;
+  top: 60px;
+  left: 500px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54.08px;
+  height: 36px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-n {
+  position: absolute;
+  top: 40px;
+  left: 330px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.nouti-n{
+  position: absolute;
+  top: 60px;
+  left: 348px;
+  font-weight: 600;
+  display: inline-block;
+  width: 110.08px;
+  height: 31px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.volei-csm-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size:20px;
+}
+.suceava-p {
+  margin: 0;
+  font-size:20px;
+}
+.volei-csm-suceava {
+  position: absolute;
+  top: 35px;
+  left: 90.77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.37px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-csm-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90.91px;
+  height: 110px;
+  object-fit: cover;
+}
+.logo-div {
+  position: absolute;
+  top: 23px;
+  left: 50.39px;
+  width: 249.14px;
+  height: 110px;
+  text-align: left;
+  color: var(--color-black);
+}
 .volei-juvenil-suceava {
   position: absolute;
   top: 24px;
@@ -18,154 +189,151 @@
 }
 .volei-juvenil-div3 {
   position: absolute;
-  top: 22px;
+  top: 125px;
   left: 528px;
   width: 560px;
   height: 90px;
   font-size: var(--font-size-2xl);
   color: var(--color-black);
 }
-.house-1-icon1 {
-  position: absolute;
-  top: 145px;
-  left: 1401px;
-  width: 80px;
-  height: 73px;
-  object-fit: cover;
-  cursor: pointer;
-}
+
 .juniori-div {
   position: absolute;
-  top: 13.44px;
-  left: 50px;
+  top: 16.44px;
+  left:-15px;
   font-weight: 600;
   display: inline-block;
-  width: 167px;
+  width: 157px;
   height: 34.12px;
   mix-blend-mode: normal;
+  font-size: 24px;
 }
 .rectangle-icon43 {
   position: absolute;
   top: 0;
-  left: -4px;
+  left: -50px;
   border-radius: var(--br-xs);
-  width: 230px;
+  width: 170px;
   height: 69px;
 }
 .buton-juniori-div,
 .sperane-div {
   position: absolute;
-  top: 151px;
+  top: 230px;
   left: 57px;
-  width: 222px;
+  width: 212px;
   height: 61px;
 }
 .sperane-div {
-  top: 15.25px;
-  left: 28.52px;
+  top: 16.44px;
+  left: -140.52px;
   font-weight: 600;
   display: inline-block;
   width: 186.36px;
   height: 27.45px;
   mix-blend-mode: normal;
+  font-size: 24px;
 }
 .rectangle-icon44 {
   position: absolute;
   top: 0;
-  left: -4px;
+  left: -165px;
   border-radius: var(--br-xs);
-  width: 240px;
+  width: 175px;
   height: 69px;
 }
 .buton-sperante-div,
 .cadei-div {
   position: absolute;
-  top: 148px;
+  top: 230px;
   left: 354px;
   width: 232px;
   height: 61px;
 }
 .cadei-div {
-  top: 14.47px;
-  left: 18px;
+  top: 16.47px;
+  left: -265px;
   font-weight: 600;
   display: inline-block;
   width: 129px;
   height: 45.49px;
   mix-blend-mode: normal;
+  font-size: 24px;
 }
 .rectangle-icon45 {
   position: absolute;
   top: 0;
-  left: -4px;
+  left: -285px;
   border-radius: var(--br-xs);
-  width: 174px;
+  width: 130px;
   height: 69px;
 }
 .buton-cadeti-div,
 .lot-div2 {
   position: absolute;
-  top: 151px;
+  top: 230px;
   left: 661px;
   width: 166px;
   height: 61px;
 }
 .lot-div2 {
-  top: 13.44px;
-  left: 27px;
+  top: 16.44px;
+  left:-360px;
   font-weight: 600;
   display: inline-block;
   width: 66px;
   height: 28.95px;
   mix-blend-mode: normal;
+  font-size: 24px;
 }
 .rectangle-icon46 {
   position: absolute;
   top: 0;
-  left: -4px;
+  left: -385px;
   border-radius: var(--br-xs);
-  width: 128px;
+  width: 96px;
   height: 69px;
 }
 .buton-lot-div2,
 .mini-volei-div {
   position: absolute;
-  top: 149px;
+  top: 230px;
   left: 902px;
   width: 120px;
   height: 61px;
 }
 .mini-volei-div {
   top: 16.1px;
-  left: 21.16px;
+  left: -455px;
   font-weight: 600;
   display: inline-block;
   width: 175.69px;
   height: 31.35px;
   mix-blend-mode: normal;
+  font-size: 24px;
 }
 .rectangle-icon47 {
   position: absolute;
   top: 0;
-  left: -4px;
+  left: -470px;
   border-radius: var(--br-xs);
-  width: 226px;
+  width: 169px;
   height: 69px;
 }
 .buton-mini-volei-div,
 .img-icon {
   position: absolute;
-  top: 149px;
+  top: 230px;
   left: 1098px;
   width: 218px;
   height: 61px;
 }
 .img-icon {
-  top: 258px;
+  top: 300px;
   left: 0;
-  width: 1500px;
-  height: 829px;
-  object-fit: cover;
+  width: 800px;
+  height: 444px;
+  
 }
 .nscrie-i-copilul-la {
   margin-block-start: 0;
@@ -176,13 +344,14 @@
 }
 .nscrie-i-copilul-la-volei-pen {
   position: absolute;
-  top: 1213px;
-  left: 577px;
+  top: 240px;
+  left: 877px;
   font-size: var(--font-size-6xl);
   display: inline-block;
   text-align: center;
   width: 646px;
   height: 134px;
+  font-size: 26px;
 }
 .rectangle-icon48 {
   position: absolute;
@@ -203,15 +372,15 @@
 .nume-copil-div,
 .nume-parinte-div {
   position: absolute;
-  top: 1383px;
-  left: 630px;
+  top: 273px;
+  left: 1000px;
   width: 499px;
   height: 72.25px;
   font-size: var(--font-size-lg);
   color: var(--color-black);
 }
 .nume-copil-div {
-  top: 1491px;
+  top: 339px;
 }
 .vrst-copil-div {
   position: absolute;
@@ -225,28 +394,21 @@
 .numar-telefon-div,
 .varsta-div {
   position: absolute;
-  top: 1599px;
-  left: 630px;
+  top: 409px;
+  left: 1000px;
   width: 499px;
   height: 72.25px;
   font-size: var(--font-size-lg);
   color: var(--color-black);
 }
 .numar-telefon-div {
-  top: 1707px;
+  top: 479px;
 }
-.imagine-icon {
-  position: absolute;
-  top: 1388px;
-  left: 191px;
-  width: 294px;
-  height: 494px;
-  object-fit: cover;
-}
+
 .e-mail-div {
   position: absolute;
-  top: 1815px;
-  left: 630px;
+  top: 549px;
+  left: 1000px;
   width: 499px;
   height: 72.25px;
   font-size: var(--font-size-lg);
@@ -257,22 +419,23 @@
   top: 0;
   left: 110px;
   border-radius: var(--br-xs);
-  width: 337px;
+  width: 220px;
   height: 71px;
 }
 .trimite-nscrierea-div {
   position: absolute;
-  top: 10px;
-  left: 130px;
+  top: 17px;
+  left: 120px;
   font-weight: 500;
   display: inline-block;
   width: 310px;
   height: 27px;
+  font-size: 24px;
 }
 .buton-inscrierea-div {
   position: absolute;
-  top: 1959px;
-  left: 704px;
+  top: 655px;
+  left: 955px;
   width: 329px;
   height: 63px;
   font-size: var(--font-size-5xl);
@@ -281,31 +444,43 @@
   position: relative;
   background-color: var(--color-white);
   width: 100%;
-  height: 2193px;
+  height: 680px;
   text-align: left;
   font-size: var(--font-size-xl);
   color: var(--color-indigo);
   font-family: var(--font-inter);
 }
-input[type=text] {
+input[type=text2] {
+  flex:0;
+  margin-top: 40px;
+  left: 720px;
+  width: 342px;
+  height: 48px;
+  border: 3px solid #555;
+  background-color: rgb(227, 234, 249);
+  border-radius: 15px;
+  -webkit-text-fill-color: rgb(10, 8, 131);
+  font-size: 20px;
+  text-align: center;
+}
+input[type=text2] {
   
   border: 3px solid #555;
   background-color: rgb(227, 234, 249);
   border-radius: 15px;
   -webkit-text-fill-color: rgb(10, 8, 131);
   
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   
-  
 }
-input[type=text]:focus {
+input[type=text2]:focus {
   
   border: 3px solid #555;
   background-color: rgb(216, 227, 251);
   border-radius: 15px;
   -webkit-text-fill-color: rgb(10, 8, 131);
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 button{
@@ -313,6 +488,6 @@ button{
   background-color: rgb(216, 227, 251);
   border-radius: 15px;
   -webkit-text-fill-color: rgb(10, 8, 131);
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
