@@ -68,13 +68,13 @@ const VoleiJuvenil = () => {
         <div className="lot-l">LOT</div>
         <img className="rectangle-l" alt="" src="../rectangle-5.svg" />
       </div>
-      <button
+      <div
         className="buton-clasament-button"
         onClick={onButonClasamentClick}
       >
         <div className="clasament-c">CLASAMENT</div>
         <img className="rectangle-c" alt="" src="../rectangle-4.svg" />
-      </button>
+      </div>
       <div
         className="buton-calendar-div"
         onClick={onButonCalendarClick}

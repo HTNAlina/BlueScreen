@@ -53,13 +53,13 @@ const Home = () => {
         <img className="rectangle-icon1" alt="" src="../rectangle-1.svg" />
         <div className="nouti-div">NOUTĂȚI</div>
       </div>
-      <button
+      <div
         className="buton-clasament-button"
         onClick={onButonClasamentButtonClick}
       >
         <div className="clasament-div">CLASAMENT</div>
         <img className="rectangle-icon3" alt="" src="../rectangle-4.svg" />
-      </button>
+      </div>
       <div
         className="buton-calendar-div"
         onClick={onButonCalendarContainerClick}
@@ -97,6 +97,10 @@ const Home = () => {
       <div className="parteneri-div">
         <img className="line-icon" alt="" src="../line-1.svg" />
         <div className="parteneri-div1">PARTENERI</div>
+      </div>
+      <div className="media-div">
+        <img className="line-iconM" alt="" src="../line-1.svg" />
+        <div className="media-div1">MEDIA</div>
       </div>
       <div className="group-div">
         <div className="primaria-div">

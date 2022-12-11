@@ -1,20 +1,21 @@
 .lot-div {
   position: absolute;
-  top: 26px;
+  top: 29px;
   left: 9.66px;
   font-weight: 600;
   display: inline-block;
   width: 54.08px;
   height: 36px;
   mix-blend-mode: normal;
+  font-size: 22px;
 }
 .rectangle-icon {
   position: absolute;
-  top: 0;
+  top: 10px;
   left: -4px;
   border-radius: var(--br-xs);
   width: 82.14px;
-  height: 83px;
+  height: 68px;
 }
 .buton-lot-div {
   position: absolute;
@@ -26,21 +27,22 @@
 }
 .detalii-div {
   position: absolute;
-  top: 24px;
-  left: 12.55px;
+  top: 29px;
+  left: 17.55px;
   font-weight: 600;
   display: inline-block;
   width: 102.36px;
   height: 39px;
   mix-blend-mode: normal;
+  font-size: 22px;
 }
 .rectangle-icon1 {
   position: absolute;
-  top: 0;
-  left: -4px;
+  top: 10px;
+  left: 1px;
   border-radius: var(--br-xs);
   width: 136.07px;
-  height: 83px;
+  height: 68px;
 }
 .buton-detalii-div {
   position: absolute;
@@ -52,12 +54,13 @@
 }
 .nouti-div {
   position: absolute;
-  top: 26px;
-  left: 8.69px;
+  top: 29px;
+  left: 13.69px;
   font-weight: 600;
   display: inline-block;
   width: 110.08px;
   height: 31px;
+  font-size: 22px;
 }
 .buton-noutati-div {
   position: absolute;
@@ -69,9 +72,8 @@
 }
 .clasament-div {
   position: absolute;
-  top: 28px;
-  left: 0;
-  font-size: var(--font-size-base);
+  top: 29px;
+  left: 9px;
   font-weight: 600;
   font-family: var(--font-inter);
   color: var(--color-indigo);
@@ -80,14 +82,15 @@
   width: 191.2px;
   height: 29px;
   mix-blend-mode: normal;
+  font-size: 22px;
 }
 .rectangle-icon3 {
   position: absolute;
-  top: 0;
+  top: 10px;
   left: 5.66px;
   border-radius: var(--br-xs);
-  width: 180.55px;
-  height: 83px;
+  width: 195.55px;
+  height: 68px;
 }
 .buton-clasament-button {
   cursor: pointer;
@@ -102,21 +105,22 @@
 }
 .calendar-div {
   position: absolute;
-  top: 24px;
+  top: 29px;
   left: 12.55px;
   font-weight: 600;
   display: inline-block;
   width: 139.05px;
   height: 41px;
   mix-blend-mode: normal;
+  font-size: 22px;
 }
 .rectangle-icon4 {
   position: absolute;
-  top: 0;
+  top: 10px;
   left: -4px;
   border-radius: var(--br-xs);
   width: 172.46px;
-  height: 83px;
+  height: 68px;
 }
 .buton-calendar-div {
   position: absolute;
@@ -164,8 +168,8 @@
   position: absolute;
   top: 10.07px;
   left: 10.95px;
-  width: 32.02px;
-  height: 37.52px;
+  width: 22.02px;
+  height: 27.52px;
   object-fit: cover;
 }
 .ellipse-icon,
@@ -173,12 +177,12 @@
   position: absolute;
   top: 0;
   left: -4px;
-  width: 61.92px;
-  height: 67.49px;
+  width: 51.92px;
+  height: 57.49px;
 }
 .facebook-div {
-  top: 1305px;
-  left: 560px;
+  top: 635px;
+  left: 1310px;
   width: 53.92px;
   height: 59.49px;
   cursor: pointer;
@@ -187,14 +191,14 @@
   position: absolute;
   top: 10.98px;
   left: 9.27px;
-  width: 35.45px;
-  height: 37.52px;
+  width: 25.45px;
+  height: 27.52px;
   object-fit: cover;
 }
 .instagram-div {
   position: absolute;
-  top: 1305px;
-  left: 704px;
+  top: 635px;
+  left: 1370px;
   width: 53.92px;
   height: 59.49px;
 }
@@ -202,15 +206,15 @@
   position: absolute;
   top: 10.98px;
   left: 9.27px;
-  width: 34.54px;
-  height: 37.52px;
+  width: 24.54px;
+  height: 27.52px;
   object-fit: cover;
 }
 .phone-div,
 .rectangle-div {
   position: absolute;
-  top: 1305px;
-  left: 854.77px;
+  top: 635px;
+  left: 1430px;
   width: 53.92px;
   height: 59.49px;
 }
@@ -223,10 +227,10 @@
 }
 .account-1-icon {
   position: absolute;
-  top: 10.93px;
+  top: 16.93px;
   left: 14.55px;
-  width: 77.55px;
-  height: 69.47px;
+  width: 67.55px;
+  height: 59.47px;
   object-fit: cover;
 }
 .buton-account-div {
@@ -239,20 +243,21 @@
 }
 .rectangle-icon5 {
   position: absolute;
-  top: 0;
+  top: 10px;
   left: -4px;
   border-radius: var(--br-xs);
   width: 241.29px;
-  height: 83px;
+  height: 68px;
 }
 .volei-juvenil-div {
   position: absolute;
-  top: 25px;
+  top: 29px;
   left: 14.48px;
   font-weight: 600;
   display: inline-block;
   width: 204.72px;
   height: 39px;
+  font-size: 22px;
 }
 .buton-volei-juvenil {
   position: absolute;
@@ -267,23 +272,52 @@
   position: absolute;
   top: 55.93px;
   left: -4.02px;
-  width: 435.35px;
+  width: 295.35px;
+  height: 14.38px;
+}
+.line-iconM,
+.media-div1 {
+  position: absolute;
+  top: 55.93px;
+  left: -4.02px;
+  width: 245.35px;
   height: 14.38px;
 }
 .parteneri-div1 {
-  top: 0;
-  left: 242.38px;
+  top:20px;
+  left: 150px;
   font-weight: 600;
   display: inline-block;
   width: 210.51px;
   height: 42px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 24px;
+}
+.media-div1 {
+  top:20px;
+  left: -1px;
+  font-weight: 600;
+  display: inline-block;
+  width: 99.51px;
+  height: 42px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 24px;
 }
 .parteneri-div {
   position: absolute;
-  top: 996px;
+  top: 546px;
   left: 5px;
   width: 452.89px;
+  height: 62.31px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.media-div {
+  position: absolute;
+  top: 546px;
+  left: 1270px;
+  width: 202.89px;
   height: 62.31px;
   text-align: left;
   font-size: var(--font-size-4xl);
@@ -294,18 +328,19 @@
   top: 0;
   left: 45.89px;
   border-radius: var(--br-md);
-  width: 114.59px;
-  height: 128.85px;
+  width: 74.59px;
+  height: 88.85px;
   object-fit: cover;
 }
 .primria-i-consiliul-local-su {
   position: absolute;
-  top: 152px;
-  left: 0;
+  top: 92px;
+  left: 30px;
   font-weight: 600;
   display: inline-block;
-  width: 205.68px;
+  width: 105.68px;
   height: 37px;
+  font-size: 10px;
 }
 .images-1-icon,
 .primaria-div {
@@ -313,30 +348,31 @@
   top: 0;
   left: 0;
   width: 205.68px;
-  height: 189px;
+  height: 109px;
 }
 .images-1-icon {
   left: 57.94px;
   border-radius: var(--br-sm);
-  width: 106.22px;
-  height: 108px;
+  width: 66.22px;
+  height: 68px;
   object-fit: cover;
 }
 .bazzil-restaurant-div {
   position: absolute;
-  top: 123px;
-  left: 0;
+  top: 76px;
+  left: 40px;
   font-weight: 600;
   display: inline-block;
   width: 221.13px;
   height: 26px;
+  font-size: 10px;
 }
 .bazzil-div {
   position: absolute;
-  top: 38px;
-  left: 489px;
+  top: 20px;
+  left: 340px;
   width: 221.13px;
-  height: 149px;
+  height: 99px;
   text-align: left;
 }
 .unknown-1-icon {
@@ -344,127 +380,129 @@
   top: 0;
   left: 0;
   border-radius: var(--br-lg);
-  width: 226.93px;
-  height: 122px;
+  width: 206.93px;
+  height: 102px;
   object-fit: cover;
 }
 .tipografia-celestin-div {
   position: absolute;
-  top: 126px;
-  left: 18.35px;
+  top: 106px;
+  left: 65.35px;
   font-weight: 600;
   display: inline-block;
   width: 228.86px;
   height: 30px;
+  font-size: 10px;
 }
 .celestin-div {
   position: absolute;
-  top: 38px;
-  left: 717px;
+  top: -10px;
+  left: 530px;
   width: 247.21px;
-  height: 156px;
+  height: 106px;
   text-align: left;
 }
 .unknown-2-icon {
   position: absolute;
   top: 0;
-  left: 25.11px;
-  width: 199.89px;
-  height: 107px;
+  left: -86px;
+  width: 169.89px;
+  height: 77px;
   object-fit: cover;
 }
 .bucovina-health-club {
   position: absolute;
-  top: 123px;
-  left: 0;
+  top: 81px;
+  left: -70px;
   font-weight: 600;
   display: inline-block;
   width: 250.1px;
   height: 32px;
+  font-size: 10px;
 }
 .bucovina-div {
   position: absolute;
-  top: 42px;
-  left: 1205px;
+  top: 13px;
+  left: 1075px;
   width: 250.1px;
-  height: 155px;
+  height: 95px;
   text-align: left;
 }
 .assist-1-icon {
   position: absolute;
-  top: 0;
+  top: -20px;
   left: 0;
-  width: 244.31px;
-  height: 53px;
+  width: 150.31px;
+  height: 33px;
   object-fit: cover;
 }
 .assist-software-div {
   position: absolute;
-  top: 89px;
-  left: 20.28px;
+  top: 30px;
+  left: -35.28px;
   font-weight: 600;
   display: inline-block;
   width: 204.72px;
   height: 22px;
+  font-size: 10px;
 }
 .assist-div,
 .suct-icon {
   position: absolute;
   top: 66px;
-  left: 217px;
+  left: 180px;
   width: 244.31px;
-  height: 111px;
+  height: 41px;
 }
 .suct-icon {
   top: 0;
   left: 0;
-  width: 187.38px;
-  height: 66.92px;
+  width: 137.38px;
+  height: 46.92px;
   object-fit: cover;
 }
 .suct-div1 {
   position: absolute;
-  top: 98px;
-  left: 29.94px;
+  top: 69px;
+  left: -1.94px;
   font-weight: 600;
   display: inline-block;
   width: 126.72px;
   height: 25.28px;
+  font-size: 10px;
 }
 .group-div,
 .suct-div {
   position: absolute;
-  top: 66px;
-  left: 990px;
+  top: 26px;
+  left: 790px;
   width: 187.38px;
-  height: 123.28px;
+  height: 73.28px;
 }
 .group-div {
-  top: 1073px;
-  left: 14px;
+  top: 625px;
+  left: 20px;
   width: 1455.1px;
-  height: 197px;
+  height: 107px;
   font-size: var(--font-size-xs);
   color: var(--color-black);
 }
 .echipa-icon {
   position: absolute;
-  height: 60.43%;
-  width: 100%;
-  top: 9.64%;
-  right: 0;
+  height: 500.43px;
+  width: 900px;
+  top: 110px;
   bottom: 29.93%;
-  left: 0;
-  max-width: 100%;
+  left: 330px;
   overflow: hidden;
-  max-height: 100%;
   object-fit: cover;
 }
 .home-div {
+  top:-22px;
   position: relative;
   background-color: var(--color-white);
   width: 100%;
-  height: 1380px;
+  height: 500px;
   text-align: center;
   font-size: var(--font-size-base);
   color: var(--color-indigo);
