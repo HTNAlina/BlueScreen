@@ -332,7 +332,7 @@
   top: 300px;
   left: 0;
   width: 800px;
-  height: 464px;
+  height: 444px;
   
 }
 .nscrie-i-copilul-la {
@@ -372,7 +372,7 @@
 .nume-copil-div,
 .nume-parinte-div {
   position: absolute;
-  top: 283px;
+  top: 273px;
   left: 1000px;
   width: 499px;
   height: 72.25px;
@@ -380,7 +380,7 @@
   color: var(--color-black);
 }
 .nume-copil-div {
-  top: 359px;
+  top: 339px;
 }
 .vrst-copil-div {
   position: absolute;
@@ -394,7 +394,7 @@
 .numar-telefon-div,
 .varsta-div {
   position: absolute;
-  top: 433px;
+  top: 409px;
   left: 1000px;
   width: 499px;
   height: 72.25px;
@@ -402,12 +402,12 @@
   color: var(--color-black);
 }
 .numar-telefon-div {
-  top: 507px;
+  top: 479px;
 }
 
 .e-mail-div {
   position: absolute;
-  top: 579px;
+  top: 549px;
   left: 1000px;
   width: 499px;
   height: 72.25px;
@@ -434,14 +434,13 @@
 }
 .buton-inscrierea-div {
   position: absolute;
-  top: 689px;
+  top: 655px;
   left: 955px;
   width: 329px;
   height: 63px;
   font-size: var(--font-size-5xl);
 }
 .volei-juvenil-div2 {
-  top: -22px;
   position: relative;
   background-color: var(--color-white);
   width: 100%;
