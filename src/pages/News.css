@@ -1,3 +1,175 @@
+.rectangle-a{
+  top: 22px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 98.91px;
+  height: 86.05px;
+}
+.account-1-a {
+  position: absolute;
+  top: 14px;
+  left: 0px;
+  width: 77.55px;
+  height: 69.47px;
+  object-fit: cover;
+}
+.rectangle-v {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 231.29px;
+  height: 73px;
+}
+.volei-juvenil-v {
+  position: absolute;
+  top: 31px;
+  left: -18px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 39px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.detalii-d {
+  position: absolute;
+  top: 31px;
+  left: -24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 102.36px;
+  height: 39px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-d {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.rectangle-ca {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 172.46px;
+  height: 73px;
+}
+.calendar-c {
+  position: absolute;
+  top: 31px;
+  left: -28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 139.05px;
+  height: 41px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-c {
+  position: absolute;
+  top: 12px;
+  left: -30px;
+  border-radius: var(--br-xs);
+  width: 180.55px;
+  height: 73px;
+}
+.clasament-c {
+  position: absolute;
+  top: 31px;
+  left: -34px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-indigo);
+  text-align: center;
+  display: inline-block;
+  width: 191.2px;
+  height: 29px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+}
+.rectangle-l {
+  position: absolute;
+  top: 40px;
+  left: 480px;
+  border-radius: var(--br-xs);
+  width: 82.14px;
+  height: 73px;
+}
+.lot-l {
+  position: absolute;
+  top: 60px;
+  left: 500px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54.08px;
+  height: 36px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-n {
+  position: absolute;
+  top: 40px;
+  left: 330px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.nouti-n{
+  position: absolute;
+  top: 60px;
+  left: 348px;
+  font-weight: 600;
+  display: inline-block;
+  width: 110.08px;
+  height: 31px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.volei-csm-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size:20px;
+}
+.suceava-p {
+  margin: 0;
+  font-size:20px;
+}
+.volei-csm-suceava {
+  position: absolute;
+  top: 35px;
+  left: 90.77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.37px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-csm-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90.91px;
+  height: 110px;
+  object-fit: cover;
+}
+.logo-div {
+  position: absolute;
+  top: 23px;
+  left: 50.39px;
+  width: 249.14px;
+  height: 110px;
+  text-align: left;
+  color: var(--color-black);
+}
+
 .line-icon9,
 .nouti-div2 {
   position: absolute;
@@ -8,11 +180,12 @@
 }
 .nouti-div2 {
   top: 0;
-  left: 269px;
+  left: 710px;
   font-weight: 600;
   display: inline-block;
   width: 254px;
   height: 56px;
+  font-size: 30px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .n-1-icon,
@@ -21,15 +194,15 @@
   left: 0;
 }
 .noutati-div {
-  top: 24px;
+  top: 145px;
   width: 523px;
   height: 72px;
   font-size: 46px;
 }
 .n-1-icon {
-  top: 238.57px;
+  top: 230px;
   width: 715px;
-  height: 752.43px;
+  height: 750px;
   object-fit: cover;
 }
 .ncepem-sptmna-aceasta {
@@ -46,20 +219,22 @@
   display: inline-block;
   width: 715px;
   height: 195.75px;
+  text-align: justify;
+  font-size: 22px;
 }
 .n-1-icon1,
 .stire-1-div {
   position: absolute;
-  top: 856px;
-  left: 770px;
+  top: 910px;
+  left: 760px;
   width: 715px;
   height: 991px;
 }
 .n-1-icon1 {
-  top: 264.88px;
+  top: 230px;
   left: 0;
   width: 683.23px;
-  height: 726.12px;
+  height: 750px;
   object-fit: cover;
 }
 .cosmin-ciubotaru-un-juctor-a {
@@ -69,20 +244,22 @@
   display: inline-block;
   width: 694px;
   height: 205.56px;
+  text-align: justify;
+  font-size: 22px;
 }
 .stire-2-div {
   position: absolute;
-  top: 856px;
-  left: 56px;
+  top: 910px;
+  left: 46px;
   width: 694px;
   height: 991px;
 }
 .captura-de-ecran-din-2022-10- {
   position: absolute;
-  top: 101.88px;
+  top: 75px;
   left: 0;
-  width: 1444px;
-  height: 601.12px;
+  width: 1430px;
+  height: 600px;
   object-fit: cover;
 }
 .afl-cum-au-simit-meciul-de-a {
@@ -90,14 +267,16 @@
   top: 0;
   left: 0;
   display: inline-block;
-  width: 1444px;
+  width: 1430px;
   height: 88.57px;
+  font-size: 22px;
+  text-align: justify;
 }
 .house-1-icon3,
 .stire-3-div {
   position: absolute;
-  top: 135px;
-  left: 56px;
+  top: 210px;
+  left: 46px;
   width: 1444px;
   height: 703px;
 }
@@ -121,27 +300,29 @@
 }
 .vezi-toate-tirile {
   position: absolute;
-  top: 25px;
-  left: 602px;
+  top: 10px;
+  left: 625px;
   font-weight: 600;
   display: inline-block;
   width: 367px;
   height: 54px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 24px;
 }
 .vezi-toate-stirile {
   position: absolute;
   top: 1919px;
-  left: 0;
-  width: 1500px;
+  left:10px;
+  width: 2300px;
   height: 79px;
   font-size: var(--font-size-2xl);
 }
 .news-div {
+  top: -22px;
   position: relative;
   background-color: var(--color-white);
   width: 100%;
-  height: 2039px;
+  height: 1960px;
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-base);
