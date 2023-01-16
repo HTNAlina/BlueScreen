@@ -1,21 +1,193 @@
+.rectangle-a{
+  top: 22px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 98.91px;
+  height: 86.05px;
+}
+.account-1-a {
+  position: absolute;
+  top: 14px;
+  left: 0px;
+  width: 77.55px;
+  height: 69.47px;
+  object-fit: cover;
+}
+.rectangle-v {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 231.29px;
+  height: 73px;
+}
+.volei-juvenil-v {
+  position: absolute;
+  top: 31px;
+  left: -18px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 39px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.detalii-d {
+  position: absolute;
+  top: 31px;
+  left: -24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 102.36px;
+  height: 39px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-d {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.rectangle-ca {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 172.46px;
+  height: 73px;
+}
+.calendar-c {
+  position: absolute;
+  top: 31px;
+  left: -28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 139.05px;
+  height: 41px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-c {
+  position: absolute;
+  top: 12px;
+  left: -30px;
+  border-radius: var(--br-xs);
+  width: 180.55px;
+  height: 73px;
+}
+.clasament-c {
+  position: absolute;
+  top: 31px;
+  left: -34px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-indigo);
+  text-align: center;
+  display: inline-block;
+  width: 191.2px;
+  height: 29px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+}
+.rectangle-l {
+  position: absolute;
+  top: 40px;
+  left: 480px;
+  border-radius: var(--br-xs);
+  width: 82.14px;
+  height: 73px;
+}
+.lot-l {
+  position: absolute;
+  top: 60px;
+  left: 500px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54.08px;
+  height: 36px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-n {
+  position: absolute;
+  top: 40px;
+  left: 330px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.nouti-n{
+  position: absolute;
+  top: 60px;
+  left: 348px;
+  font-weight: 600;
+  display: inline-block;
+  width: 110.08px;
+  height: 31px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.volei-csm-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size:20px;
+}
+.suceava-p {
+  margin: 0;
+  font-size:20px;
+}
+.volei-csm-suceava {
+  position: absolute;
+  top: 35px;
+  left: 90.77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.37px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-csm-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90.91px;
+  height: 110px;
+  object-fit: cover;
+}
+.logo-div {
+  position: absolute;
+  top: 23px;
+  left: 50.39px;
+  width: 249.14px;
+  height: 110px;
+  text-align: left;
+  color: var(--color-black);
+}
 .line-icon13 {
   position: absolute;
-  top: 45px;
-  left: -4px;
-  width: 547px;
-  height: 13.99px;
+  top: 30px;
+  left: -15.02px;
+  width: 407.74px;
+  height: 14.2px;
 }
 .meciuri-anterioare-div {
   position: absolute;
   top: 0;
-  left: 148px;
+  left: 150px;
   font-weight: 600;
   display: inline-block;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .meci-urmator-div {
   position: absolute;
-  top: 26px;
+  top: 140px;
   left: 4px;
   width: 539px;
   height: 50.99px;
@@ -95,13 +267,13 @@
 .calendar-div2,
 .div1,
 .div2 {
-  top: 23px;
+  top: 323px;
   left: 1365px;
   width: 135px;
 }
 .div1,
 .div2 {
-  top: 212px;
+  top: 300px;
   left: 32px;
   font-size: var(--font-size-4xl);
   font-weight: 600;
@@ -110,9 +282,10 @@
   width: 238px;
   height: 37px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .div2 {
-  top: 428px;
+  top: 440px;
   width: 227px;
   height: 42px;
 }
@@ -123,7 +296,7 @@
   top: 0;
   right: 77.62%;
   bottom: 17.51%;
-  left: 0;
+  left: -5px;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
@@ -138,15 +311,16 @@
   width: 259px;
   height: 53px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .csm-u-craiova {
   position: absolute;
   height: 8.77%;
   width: 23.53%;
-  top: 12.08%;
+  top: 250px;
   right: 55.87%;
   bottom: 79.15%;
-  left: 20.6%;
+  left: 315px;
   color: var(--color-black);
 }
 .logo-csm-12 {
@@ -166,53 +340,56 @@
   width: 238px;
   height: 39px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .csm-suceava-div,
 .csm-suceava-div1,
 .csm-suceava-div3 {
   position: absolute;
-  top: 0;
+  top: 200px;
   left: 0;
   width: 350px;
   height: 94px;
 }
 .csm-suceava-div,
 .csm-suceava-div3 {
-  top: 168px;
+  top: 65px;
   left: 894px;
   color: var(--color-black);
 }
 .csm-suceava-div3 {
-  top: 381px;
+  top: 190px;
   left: 297px;
 }
 .divizia-a1,
 .divizia-a11,
 .sala-polivalent-craiova {
   position: absolute;
-  top: 163px;
+  top: 250px;
   left: 32px;
   font-weight: 600;
   display: inline-block;
   width: 172px;
   height: 24px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .divizia-a11,
 .sala-polivalent-craiova {
-  top: 379px;
+  top: 390px;
   height: 31px;
 }
 .sala-polivalent-craiova {
-  top: 315px;
-  left: 598px;
+  top: 200px;
+  left: 650px;
   width: 419px;
   height: 42px;
+  font-size: 22px;
 }
 .d26lfm-r94wk7cd-1-icon {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 0px;
+  left: -11px;
   width: 83.11px;
   height: 95px;
   object-fit: cover;
@@ -226,10 +403,11 @@
   width: 110.16px;
   height: 40.43px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .u-cluj-div {
   position: absolute;
-  top: 394px;
+  top: 390px;
   left: 916px;
   width: 201px;
   height: 95px;
@@ -237,24 +415,25 @@
 }
 .sala-de-sport-dumitru-bernic {
   position: absolute;
-  top: 519px;
-  left: 536px;
+  top: 490px;
+  left: 600px;
   font-weight: 600;
   display: inline-block;
   width: 518px;
   height: 61px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .meci-icon {
   position: absolute;
-  top: 580px;
+  top: 530px;
   left: 32px;
   width: 1468px;
   height: 691px;
   object-fit: cover;
 }
 .div3 {
-  top: 188px;
+  top: 280px;
   left: 760px;
   font-size: var(--font-size-8xl);
   width: 35px;
@@ -270,8 +449,8 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .div4 {
-  top: 410px;
-  left: 766px;
+  top: 400px;
+  left: 760px;
   font-size: var(--font-size-8xl);
   width: 35px;
   height: 44px;
@@ -279,23 +458,25 @@
 .div5,
 .div6,
 .scor-final-div {
-  top: 133px;
+  top: 200px;
   left: 1303px;
   font-weight: 600;
   width: 197px;
   height: 32px;
+  font-size: 22px;
 }
 .div5,
 .div6 {
-  top: 210px;
+  top: 300px;
   left: 1358px;
   font-size: var(--font-size-4xl);
   color: var(--color-indigo);
   width: 109px;
   height: 34px;
+  font-size: 22px;
 }
 .div6 {
-  top: 420px;
+  top: 425px;
   left: 1355px;
   width: 95px;
   height: 37px;
@@ -313,10 +494,12 @@
   position: relative;
   background-color: var(--color-white);
   width: 100%;
-  height: 1271px;
+  height: 700px;
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-xl);
   color: var(--color-brown);
   font-family: var(--font-inter);
+  top: -22px;
+  
 }
