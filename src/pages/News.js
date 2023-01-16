@@ -63,7 +63,7 @@ const News = () => {
         src="../house-13@2x.png"
         onClick={onHouse1ImageClick}
       />
-      <a href="https://www.w3schools.com/"><div className="vezi-toate-stirile">
+      <a href="https://www.csm-suceava.ro/volei"><div className="vezi-toate-stirile">
         <div className="line-div6" />
         <div className="vezi-toate-tirile">{`>>Vezi toate știrile`}</div>
       </div>
