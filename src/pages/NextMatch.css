@@ -1,8 +1,179 @@
+.rectangle-a{
+  top: 22px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 98.91px;
+  height: 86.05px;
+}
+.account-1-a {
+  position: absolute;
+  top: 14px;
+  left: 0px;
+  width: 77.55px;
+  height: 69.47px;
+  object-fit: cover;
+}
+.rectangle-v {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 231.29px;
+  height: 73px;
+}
+.volei-juvenil-v {
+  position: absolute;
+  top: 31px;
+  left: -18px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204.72px;
+  height: 39px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.detalii-d {
+  position: absolute;
+  top: 31px;
+  left: -24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 102.36px;
+  height: 39px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-d {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.rectangle-ca {
+  position: absolute;
+  top: 12px;
+  left: -52px;
+  border-radius: var(--br-xs);
+  width: 172.46px;
+  height: 73px;
+}
+.calendar-c {
+  position: absolute;
+  top: 31px;
+  left: -28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 139.05px;
+  height: 41px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-c {
+  position: absolute;
+  top: 12px;
+  left: -30px;
+  border-radius: var(--br-xs);
+  width: 180.55px;
+  height: 73px;
+}
+.clasament-c {
+  position: absolute;
+  top: 31px;
+  left: -34px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-indigo);
+  text-align: center;
+  display: inline-block;
+  width: 191.2px;
+  height: 29px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+}
+.rectangle-l {
+  position: absolute;
+  top: 40px;
+  left: 480px;
+  border-radius: var(--br-xs);
+  width: 82.14px;
+  height: 73px;
+}
+.lot-l {
+  position: absolute;
+  top: 60px;
+  left: 500px;
+  font-weight: 600;
+  display: inline-block;
+  width: 54.08px;
+  height: 36px;
+  mix-blend-mode: normal;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.rectangle-n {
+  position: absolute;
+  top: 40px;
+  left: 330px;
+  border-radius: var(--br-xs);
+  width: 136.07px;
+  height: 73px;
+}
+.nouti-n{
+  position: absolute;
+  top: 60px;
+  left: 348px;
+  font-weight: 600;
+  display: inline-block;
+  width: 110.08px;
+  height: 31px;
+  font-size: 22px;
+  color: var(--color-indigo);
+}
+.volei-csm-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size:20px;
+}
+.suceava-p {
+  margin: 0;
+  font-size:20px;
+}
+.volei-csm-suceava {
+  position: absolute;
+  top: 35px;
+  left: 90.77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.37px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-csm-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90.91px;
+  height: 110px;
+  object-fit: cover;
+}
+.logo-div {
+  position: absolute;
+  top: 23px;
+  left: 50.39px;
+  width: 249.14px;
+  height: 110px;
+  text-align: left;
+  color: var(--color-black);
+}
 .line-icon14 {
   position: absolute;
-  top: 53.85px;
-  left: -4.02px;
-  width: 491.8px;
+  top: 30px;
+  left: -25.02px;
+  width: 360px;
   height: 14.41px;
 }
 .meciuri-urmtoare-div {
@@ -17,11 +188,11 @@
 }
 .meci-urmator-div1 {
   position: absolute;
-  top: 14px;
+  top: 160px;
   left: 0;
   width: 483.78px;
   height: 60.26px;
-  font-size: var(--font-size-3xl);
+  font-size: 22px;
   color: var(--color-black);
 }
 .rectangle-div4 {
@@ -103,7 +274,7 @@
 }
 .div7,
 .div8 {
-  top: 200px;
+  top: 280px;
   left: 30px;
   font-size: var(--font-size-4xl);
   font-weight: 600;
@@ -112,10 +283,12 @@
   width: 218px;
   height: 37px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .div8 {
-  top: 358px;
+  top: 558px;
   width: 225px;
+  font-size: 22px;
 }
 .background-icon1 {
   position: absolute;
@@ -144,11 +317,12 @@
   position: absolute;
   height: 7.52%;
   width: 23.78%;
-  top: 14.15%;
+  top: 230px;
   right: 53.82%;
   bottom: 78.34%;
-  left: 22.4%;
+  left: 330px;
   color: var(--color-black);
+  font-size: 22px;
 }
 .logo-csm-14 {
   position: absolute;
@@ -170,11 +344,12 @@
 }
 .csm-suceava-div6 {
   position: absolute;
-  top: 312px;
-  left: 336px;
+  top: 512px;
+  left: 320px;
   width: 343.26px;
   height: 86px;
   color: var(--color-black);
+  font-size: 22px;
 }
 .csm-suceava-div9 {
   position: absolute;
@@ -188,33 +363,36 @@
 }
 .csm-suceava-div8 {
   position: absolute;
-  top: 146px;
+  top: 240px;
   left: 1105px;
   width: 351.26px;
   height: 86px;
   color: var(--color-black);
+  font-size: 22px;
 }
 .divizia-a12,
 .divizia-a13,
 .sala-polivalent-craiova1 {
   position: absolute;
-  top: 150px;
+  top: 230px;
   left: 30px;
   font-weight: 600;
   display: inline-block;
   width: 184px;
   height: 40px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .divizia-a13,
 .sala-polivalent-craiova1 {
-  top: 307px;
+  top: 507px;
   width: 174px;
   height: 31px;
+  font-size: 22px;
 }
 .sala-polivalent-craiova1 {
-  top: 245px;
-  left: 679px;
+  top: 345px;
+  left: 710px;
   width: 406px;
   height: 52px;
 }
@@ -238,21 +416,23 @@
 }
 .u-cluj-div2 {
   position: absolute;
-  top: 307px;
-  left: 1105px;
+  top: 507px;
+  left: 1090px;
   width: 238.25px;
   height: 91px;
   color: var(--color-black);
+  font-size: 22px;
 }
 .sala-de-sport-dumitru-bernic1 {
   position: absolute;
-  top: 407px;
-  left: 610px;
+  top: 607px;
+  left: 670px;
   font-weight: 600;
   display: inline-block;
   width: 530px;
   height: 52px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .meci-icon1 {
   position: absolute;
@@ -265,7 +445,7 @@
 .div10,
 .div9 {
   position: absolute;
-  top: 164px;
+  top: 240px;
   left: 826px;
   font-size: var(--font-size-8xl);
   display: inline-block;
@@ -274,7 +454,7 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .div10 {
-  top: 322px;
+  top: 522px;
   left: 829px;
   width: 44px;
   height: 42px;
