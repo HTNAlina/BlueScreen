@@ -1,14 +1,14 @@
 .line-icon10 {
   position: absolute;
   top: 203.32px;
-  left: -4.01px;
+  left: 19px;
   width: 466.01px;
   height: 14.68px;
 }
 .pop-darius-cristian {
   position: absolute;
   top: 160px;
-  left: 14px;
+  left: 24px;
   font-weight: 600;
   display: inline-block;
   width: 448px;
@@ -18,20 +18,20 @@
 .ellipse-icon7,
 .nume-jucator-div {
   position: absolute;
-  top: 119px;
+  top: 39px;
   left: 1038px;
   width: 462px;
   height: 60px;
 }
 .ellipse-icon7 {
-  top: 150px;
+  top: 65px;
   left: -14px;
   width: 363px;
   height: 358px;
 }
 .teamplayer-176-2065-1-icon {
   position: absolute;
-  top: 170.97px;
+  top: 80.97px;
   left: 38.87px;
   border-radius: 89px;
   width: 258.57px;
@@ -61,8 +61,8 @@
 }
 .numr-tricou-2-club-csm-suce {
   position: absolute;
-  top: 300px;
-  left: 487px;
+  top: 200px;
+  left: 537px;
   font-size: var(--font-size-2xl);
   font-weight: 600;
   display: inline-block;
@@ -75,7 +75,7 @@
 .line-icon11 {
   position: absolute;
   top: 245px;
-  left: 0;
+  left: -23px;
   width: 451.87px;
   height: 14px;
 }
@@ -90,7 +90,7 @@
 }
 .echipe-div {
   position: absolute;
-  top: 503px;
+  top: 383px;
   left: 0;
   width: 447.87px;
   height: 51px;
@@ -99,7 +99,7 @@
 .perioad-div {
   position: absolute;
   top: 241.03px;
-  left: -4.02px;
+  left: 6px;
   width: 452.02px;
   height: 13.97px;
 }
@@ -114,19 +114,20 @@
 }
 .perioada-div {
   position: absolute;
-  top: 507px;
+  top: 383px;
   left: 1052px;
   width: 448px;
   height: 47px;
 }
 .cs-unirea-dej {
+  
   margin: 0;
 }
 .csm-suceava-cs-unirea-dej,
 .frv-202223-frv-202122 {
   position: absolute;
-  top: 784px;
-  left: 228px;
+  top: 644px;
+  left: 208px;
   font-size: var(--font-size-2xl);
   font-weight: 600;
   display: inline-block;
@@ -135,7 +136,7 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .frv-202223-frv-202122 {
-  left: 1052px;
+  left: 1062px;
   width: 399px;
   height: 133px;
 }
