@@ -6,7 +6,14 @@ const LogIn = () => {
   const navigate = useNavigate();
 
   const onRectangleClick = useCallback(() => {
-    navigate("/admin-home");
+    var nume = document.getElementById("nume").value;
+    var cod = document.getElementById("cod").value;
+    if(nume == 'Adrian' && cod == '1234'){
+      navigate("/admin-home");
+    }
+    else{
+      window.alert('Date invalide');
+    }
   }, [navigate]);
 
   const onHouseImageClick = useCallback(() => {

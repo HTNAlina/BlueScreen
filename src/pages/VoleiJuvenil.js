@@ -38,6 +38,30 @@ const VoleiJuvenil = () => {
     navigate("/volei-juvenil");
   }, [navigate]);
 
+  const onButonInscriereClick = useCallback(() => {
+    var numep = document.getElementById("numep").value;
+    var numec = document.getElementById("numec").value;
+    var varsta = document.getElementById("varsta").value;
+    var telefon = document.getElementById("tel").value;
+    var email = document.getElementById("email").value;
+
+    if(numep === "") window.alert("Introduceți nume părinte");
+    else if(numec === "") window.alert("Introduceți nume copil");
+    else if(varsta === "") window.alert("Introduceți varsta");
+    else if(telefon === "") window.alert("Introduceți numarul de telefon");
+    else if(email === "") window.alert("Introduceți adresa de e-mail");
+    else{
+      document.getElementById('numep').value=null;
+      document.getElementById('numec').value=null;
+      document.getElementById('varsta').value=null;
+      document.getElementById('tel').value=null;
+      document.getElementById('email').value=null;
+      window.alert("Înscrierea a fost trimisă");
+    }
+
+    navigate("/volei-juvenil");
+  }, [navigate]);
+
 
   return (
     <div className="volei-juvenil-div2">
@@ -120,24 +144,24 @@ const VoleiJuvenil = () => {
       </b>
 
        <div className="nume-parinte-div">
-        <input type="text2" placeholder="Nume părinte"></input>
+        <input id='numep' type="text2" placeholder="Nume părinte"></input>
        
       </div>
       <div className="nume-copil-div">
-      <input type="text2" placeholder="Nume copil"></input>
+      <input id = 'numec' type="text2" placeholder="Nume copil"></input>
         
       </div>
       <div className="varsta-div">
-        <input type="text2" placeholder="Vârstă copil"></input>
+        <input id='varsta' type="text2" placeholder="Vârstă copil"></input>
        
       </div>
       <div className="numar-telefon-div">
-        <input type="text2" placeholder="Număr telefon"></input>
+        <input id = 'tel' type="text2" placeholder="Număr telefon"></input>
       </div>
       <div className="e-mail-div">
-        <input type="text2" placeholder="E-mail"></input>
+        <input id = 'email' type="text2" placeholder="E-mail"></input>
       </div>
-      <div className="buton-inscrierea-div">
+      <div className="buton-inscrierea-div" onClick={onButonInscriereClick}>
         <img className="rectangle-icon53" alt="" src="../rectangle-54.svg" />
         <div className="trimite-nscrierea-div">Trimite înscrierea</div>
       </div>
