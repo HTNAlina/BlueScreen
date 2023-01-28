@@ -8,7 +8,7 @@ const LogIn = () => {
   const onRectangleClick = useCallback(() => {
     var nume = document.getElementById("nume").value;
     var cod = document.getElementById("cod").value;
-    if(nume == 'Adrian' && cod == '1234'){
+    if((nume == 'Adrian' && cod == '1234') || (nume=='Ana' && cod == '1111' )){
       navigate("/admin-home");
     }
     else{
