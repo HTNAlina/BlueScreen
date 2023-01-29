@@ -273,7 +273,7 @@
 }
 .div1,
 .div2 {
-  top: 300px;
+  top: 280px;
   left: 32px;
   font-size: var(--font-size-4xl);
   font-weight: 600;
@@ -285,15 +285,15 @@
   font-size: 22px;
 }
 .div2 {
-  top: 440px;
+  top: 480px;
   width: 227px;
   height: 42px;
 }
 .background-icon {
   position: absolute;
-  height: 82.49%;
-  width: 22.38%;
-  top: 0;
+  height: 80px;
+  width: 80px;
+  top: -10px;
   right: 77.62%;
   bottom: 17.51%;
   left: -5px;
@@ -304,7 +304,7 @@
 }
 .csm-u-craiova1 {
   position: absolute;
-  top: 58.46px;
+  top: 20px;
   left: 94px;
   font-weight: 600;
   display: inline-block;
@@ -317,7 +317,7 @@
   position: absolute;
   height: 8.77%;
   width: 23.53%;
-  top: 250px;
+  top: 245px;
   right: 55.87%;
   bottom: 79.15%;
   left: 315px;
@@ -333,7 +333,7 @@
 }
 .csm-suceava-div2 {
   position: absolute;
-  top: 42px;
+  top: 34px;
   left: 112px;
   font-weight: 600;
   display: inline-block;
@@ -346,26 +346,27 @@
 .csm-suceava-div1,
 .csm-suceava-div3 {
   position: absolute;
-  top: 200px;
+  top: 220px;
   left: 0;
   width: 350px;
   height: 94px;
 }
 .csm-suceava-div,
 .csm-suceava-div3 {
-  top: 65px;
+  top: 0px;
   left: 894px;
   color: var(--color-black);
 }
 .csm-suceava-div3 {
   top: 190px;
   left: 297px;
+ 
 }
 .divizia-a1,
 .divizia-a11,
 .sala-polivalent-craiova {
   position: absolute;
-  top: 250px;
+  top: 230px;
   left: 32px;
   font-weight: 600;
   display: inline-block;
@@ -376,11 +377,11 @@
 }
 .divizia-a11,
 .sala-polivalent-craiova {
-  top: 390px;
+  top: 420px;
   height: 31px;
 }
 .sala-polivalent-craiova {
-  top: 200px;
+  top: 340px;
   left: 650px;
   width: 419px;
   height: 42px;
@@ -396,7 +397,7 @@
 }
 .u-cluj-div1 {
   position: absolute;
-  top: 38.3px;
+  top: 39px;
   left: 90.84px;
   font-weight: 600;
   display: inline-block;
@@ -407,7 +408,7 @@
 }
 .u-cluj-div {
   position: absolute;
-  top: 390px;
+  top: 400px;
   left: 916px;
   width: 201px;
   height: 95px;
@@ -415,7 +416,7 @@
 }
 .sala-de-sport-dumitru-bernic {
   position: absolute;
-  top: 490px;
+  top: 520px;
   left: 600px;
   font-weight: 600;
   display: inline-block;
@@ -433,7 +434,7 @@
   object-fit: cover;
 }
 .div3 {
-  top: 280px;
+  top: 240px;
   left: 760px;
   font-size: var(--font-size-8xl);
   width: 35px;
@@ -449,7 +450,7 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .div4 {
-  top: 400px;
+  top: 420px;
   left: 760px;
   font-size: var(--font-size-8xl);
   width: 35px;
@@ -467,7 +468,7 @@
 }
 .div5,
 .div6 {
-  top: 300px;
+  top: 255px;
   left: 1358px;
   font-size: var(--font-size-4xl);
   color: var(--color-indigo);
@@ -476,7 +477,7 @@
   font-size: 22px;
 }
 .div6 {
-  top: 425px;
+  top: 434px;
   left: 1355px;
   width: 95px;
   height: 37px;
@@ -493,7 +494,7 @@
 .last-match-div {
   position: relative;
   background-color: var(--color-white);
-  width: 100%;
+  width:  1500px;
   height: 700px;
   overflow: hidden;
   text-align: left;

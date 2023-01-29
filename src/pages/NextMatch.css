@@ -172,23 +172,24 @@
 .line-icon14 {
   position: absolute;
   top: 30px;
-  left: -25.02px;
-  width: 360px;
-  height: 14.41px;
+  left: -4px;
+  width: 407.74px;
+  height: 14.2px;
 }
 .meciuri-urmtoare-div {
   position: absolute;
   top: 0;
-  left: 95px;
+  left: 163px;
   font-weight: 600;
   display: inline-block;
   width: 380px;
   height: 33px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .meci-urmator-div1 {
   position: absolute;
-  top: 160px;
+  top: 140px;
   left: 0;
   width: 483.78px;
   height: 60.26px;
@@ -286,21 +287,21 @@
   font-size: 22px;
 }
 .div8 {
-  top: 558px;
+  top: 480px;
   width: 225px;
   font-size: 22px;
 }
 .background-icon1 {
   position: absolute;
-  height: 100%;
-  width: 20.42%;
+  height: 65px;
+  width: 65px;
   top: 0;
   right: 79.58%;
   bottom: 0;
   left: 0;
   max-width: 100%;
   overflow: hidden;
-  max-height: 100%;
+  
   object-fit: cover;
 }
 .csm-u-craiova2 {
@@ -312,6 +313,7 @@
   width: 276.63px;
   height: 53.78px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .csm-craiova-div {
   position: absolute;
@@ -320,7 +322,7 @@
   top: 230px;
   right: 53.82%;
   bottom: 78.34%;
-  left: 330px;
+  left: 325px;
   color: var(--color-black);
   font-size: 22px;
 }
@@ -344,7 +346,7 @@
 }
 .csm-suceava-div6 {
   position: absolute;
-  top: 512px;
+  top: 420px;
   left: 320px;
   width: 343.26px;
   height: 86px;
@@ -353,7 +355,7 @@
 }
 .csm-suceava-div9 {
   position: absolute;
-  top: 27px;
+  top: 30px;
   left: 88px;
   font-weight: 600;
   display: inline-block;
@@ -363,7 +365,7 @@
 }
 .csm-suceava-div8 {
   position: absolute;
-  top: 240px;
+  top: 235px;
   left: 1105px;
   width: 351.26px;
   height: 86px;
@@ -385,7 +387,7 @@
 }
 .divizia-a13,
 .sala-polivalent-craiova1 {
-  top: 507px;
+  top: 420px;
   width: 174px;
   height: 31px;
   font-size: 22px;
@@ -406,7 +408,7 @@
 }
 .u-cluj-div3 {
   position: absolute;
-  top: 40px;
+  top: 35px;
   left: 110px;
   font-weight: 600;
   display: inline-block;
@@ -416,7 +418,7 @@
 }
 .u-cluj-div2 {
   position: absolute;
-  top: 507px;
+  top: 420px;
   left: 1090px;
   width: 238.25px;
   height: 91px;
@@ -425,7 +427,7 @@
 }
 .sala-de-sport-dumitru-bernic1 {
   position: absolute;
-  top: 607px;
+  top: 520px;
   left: 670px;
   font-weight: 600;
   display: inline-block;
@@ -454,7 +456,7 @@
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 .div10 {
-  top: 522px;
+  top: 420px;
   left: 829px;
   width: 44px;
   height: 42px;
@@ -470,9 +472,10 @@
 }
 .next-match-div {
   position: relative;
+  top:-22px;
   background-color: var(--color-white);
-  width: 100%;
-  height: 1131px;
+  width: 800px;
+  height: 700x;
   text-align: left;
   font-size: var(--font-size-xl);
   color: var(--color-brown);
