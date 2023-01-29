@@ -1,6 +1,6 @@
 .line-icon10 {
   position: absolute;
-  top: 203.32px;
+  top: 190px;
   left: 19px;
   width: 466.01px;
   height: 14.68px;
@@ -8,12 +8,13 @@
 .pop-darius-cristian {
   position: absolute;
   top: 160px;
-  left: 24px;
+  left: 28px;
   font-weight: 600;
   display: inline-block;
   width: 448px;
   height: 60px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .ellipse-icon7,
 .nume-jucator-div {
@@ -58,12 +59,13 @@
 .nlime-183-p {
   margin-block-start: 0;
   margin-block-end: 0;
+  font-size: 22px;
 }
 .numr-tricou-2-club-csm-suce {
   position: absolute;
   top: 200px;
   left: 537px;
-  font-size: var(--font-size-2xl);
+  font-size: 22px;
   font-weight: 600;
   display: inline-block;
   width: 639px;
@@ -74,23 +76,24 @@
 .echipe-div1,
 .line-icon11 {
   position: absolute;
-  top: 245px;
+  top: 230px;
   left: -23px;
   width: 451.87px;
   height: 14px;
 }
 .echipe-div1 {
   top: 200px;
-  left: 298px;
+  left: 345px;
   font-weight: 600;
   display: inline-block;
   width: 143px;
   height: 30px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .echipe-div {
   position: absolute;
-  top: 383px;
+  top: 340px;
   left: 0;
   width: 447.87px;
   height: 51px;
@@ -98,7 +101,7 @@
 .line-icon12,
 .perioad-div {
   position: absolute;
-  top: 241.03px;
+  top: 230px;
   left: 6px;
   width: 452.02px;
   height: 13.97px;
@@ -111,23 +114,24 @@
   width: 204.92px;
   height: 29px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
 }
 .perioada-div {
   position: absolute;
-  top: 383px;
+  top: 340px;
   left: 1052px;
   width: 448px;
   height: 47px;
 }
 .cs-unirea-dej {
-  
+  font-size: 22px;
   margin: 0;
 }
 .csm-suceava-cs-unirea-dej,
 .frv-202223-frv-202122 {
   position: absolute;
-  top: 644px;
-  left: 208px;
+  top: 600px;
+  left: 275px;
   font-size: var(--font-size-2xl);
   font-weight: 600;
   display: inline-block;
@@ -151,9 +155,10 @@
 }
 .players-history-div {
   position: relative;
+  top: -22px;
   background-color: var(--color-white);
-  width: 100%;
-  height: 1500px;
+  width: 1535px;
+  height: 700px;
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-4xl);
